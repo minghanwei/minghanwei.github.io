@@ -15,7 +15,7 @@ redirect_from:
 Hello, I am Wei (魏), Minghan (明瀚). I received my Ph.D. degree from the Department of Computer Science and Engineering, University of Minnesota, under the supervision of [Prof. Volkan Isler](https://www-users.cse.umn.edu/~isler/).
 
 My research interests are in the general area of ***Robotics*** mapping, planning, and control for practical indoor and field applications such as precision agriculture and environmental monitoring.
-* One focus of my research is to study how to improve robots energy efficiency in these applications.
+* One focus of my research is to study how to improve energy efficiency of robots in these applications.
 * I study how to apply learning-based methods to predict energy-cost maps so that energy optimal paths can be planned.
 * I study and design energy-aware path planning algorithms to minimize total energy consumption.
 * I also implement practical robotic systems, e.g. autonomous robot mower, for these applications.
