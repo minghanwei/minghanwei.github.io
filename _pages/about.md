@@ -25,9 +25,9 @@ My research interests are in the general area of ***Robotics*** mapping, plannin
 * **June, 2022**: I have joined Google as a Software Engineer in the Augmented Reality - Motion tracking team.
 * **Jan, 2022**: I have joined iRobot as a Senior Robotics Software Engineer working on the mapping and planning for the autonomous vacuum cleaners.
 * **June, 2021**: This summer I would be a Data Science intern at 3M.
-* **Jan, 2022**: I would be a Research Intern from Jan to August at Samsung Research America - New York.
+* **Jan, 2022**: I would be a Research Intern from January to August at Samsung Research America - New York.
 
 ## <img src="/images/logos/education.jpeg?raw=true" alt="Photo" style="width: 60px;"/> Education 
 <img src="/images/logos/umn-logo.png?raw=true" alt="Photo" style="width: 40px;"/> **University of Minnesota - Twin Cities** \
-&emsp;&emsp;&emsp;&emsp; PhD, Computer Science <span style="color: grey;">(August 2016 - Jan 2022)</span>  
-&emsp;&emsp;&emsp;&emsp; <span style="color: grey;">Minneapolis, MN, US</span>
+&emsp;&emsp; PhD, Computer Science (Aug 2016 - Jan 2022)
+&emsp;&emsp; Minneapolis, MN, US
