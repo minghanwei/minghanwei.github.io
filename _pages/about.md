@@ -29,5 +29,5 @@ My research interests are in the general area of ***Robotics*** mapping, plannin
 
 ## <img src="/images/logos/education.jpeg?raw=true" alt="Photo" style="width: 60px;"/> Education 
 <img src="/images/logos/umn-logo.png?raw=true" alt="Photo" style="width: 40px;"/> **University of Minnesota - Twin Cities** \
-PhD, Computer Science <span style="color: grey;">(August 2016 - Jan 2022)</span>  
-<span style="color: grey;">Minneapolis, MN, US</span>
+&emsp;&emsp;&emsp;&emsp; PhD, Computer Science <span style="color: grey;">(August 2016 - Jan 2022)</span>  
+&emsp;&emsp;&emsp;&emsp; <span style="color: grey;">Minneapolis, MN, US</span>
