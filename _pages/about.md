@@ -28,14 +28,14 @@ My research interests are in the general area of ***Robotics*** mapping, plannin
 * **Jan, 2022**: I would be a Research Intern from January to August at Samsung Research America - New York.
 
 ## <img src="/images/logos/education.jpeg?raw=true" alt="Photo" style="width: 60px;"/> Education 
-<img src="/images/logos/umn-logo.png?raw=true" alt="Photo" style="width: 40px;"/> **University of Minnesota - Twin Cities**
+<img src="/images/logos/umn-logo.png?raw=true" alt="Photo" style="width: 40px;"/> **University of Minnesota - Twin Cities** \
 &emsp;&emsp;&emsp; PhD, Computer Science, Aug 2016 - Jan 2022
 &emsp;&emsp;&emsp; Minneapolis, MN, US
 
-<img src="/images/logos/ANU.jpeg?raw=true" alt="Photo" style="width: 40px;"/> **Australian National University**
+<img src="/images/logos/ANU.jpeg?raw=true" alt="Photo" style="width: 40px;"/> **Australian National University** \
 &emsp;&emsp;&emsp; Undergraduate Exchange Program, June 2014 - Dec 2014
 &emsp;&emsp;&emsp; Canberra, Australia
 
-<img src="/images/logos/NJUST.png?raw=true" alt="Photo" style="width: 40px;"/> **Nanjing University of Science and Technology**
+<img src="/images/logos/NJUST.png?raw=true" alt="Photo" style="width: 40px;"/> **Nanjing University of Science and Technology** \
 &emsp;&emsp;&emsp; B.E. in Computer Science and Technology, Sep 2012 - June 2016
 &emsp;&emsp;&emsp; Nanjing, China
