@@ -32,9 +32,9 @@ My research interests are in the general area of ***Robotics*** mapping, plannin
 &emsp;&emsp;&thinsp; Minneapolis, MN, US
 
 <img src="/images/logos/anu-logo.jpg?raw=true" alt="Photo" style="width: 40px;"/> **Australian National University** \
-&emsp;&emsp; Undergraduate Exchange Program, June 2014 - Dec 2014 \
-&emsp;&emsp; Canberra, Australia
+&emsp;&emsp;&thinsp; Undergraduate Exchange Program, June 2014 - Dec 2014 \
+&emsp;&emsp;&thinsp; Canberra, Australia
 
 <img src="/images/logos/NJUST.png?raw=true" alt="Photo" style="width: 40px;"/> **Nanjing University of Science and Technology** \
-&emsp;&emsp; B.E. in Computer Science and Technology, Sep 2012 - June 2016 \
-&emsp;&emsp; Nanjing, China
+&emsp;&emsp;&thinsp; B.E. in Computer Science and Technology, Sep 2012 - June 2016 \
+&emsp;&emsp;&thinsp; Nanjing, China
