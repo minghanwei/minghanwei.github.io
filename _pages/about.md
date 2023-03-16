@@ -14,6 +14,12 @@ redirect_from:
 
 Hello, I am Wei (魏), Minghan (明瀚). I received my Ph.D. degree from the Department of Computer Science and Engineering, University of Minnesota, under the supervision of [Prof. Volkan Isler](https://www-users.cse.umn.edu/~isler/).
 
+My research interests are in the general area of ***Robotics*** mapping, planning, and control for practical indoor and field applications such as precision agriculture and environmental monitoring.
+* One focus of my research is to study how to improve robots energy efficiency in these applications.
+* I study how to apply learning-based methods to predict energy-cost maps so that energy optimal paths can be planned.
+* I study and design energy-aware path planning algorithms to minimize total energy consumption.
+* I also implement practical robotic systems, e.g. autonomous robot mower, for these applications.
+
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
