@@ -47,10 +47,10 @@ My research interests are in the general area of ***Robotics*** mapping, plannin
 &emsp;&emsp;&thinsp;&thinsp;&thinsp;<span style="color: grey;">Jan 2022 - Jun 2022, Remote </span>
 
 <img src="/images/logos/3M.jpg?raw=true" alt="Photo" style="width: 40px;"/>&thinsp; **Data Science Intern**, 3M \
-&emsp;&emsp;&thinsp;&thinsp;<span style="color: grey;">June 2021 - Aug 2021, Remote </span>
+&emsp;&emsp;&thinsp;&thinsp;&thinsp;<span style="color: grey;">June 2021 - Aug 2021, Remote </span>
 
 <img src="/images/logos/samsung-research.jpg?raw=true" alt="Photo" style="width: 40px;"/>&thinsp; **Research Intern**, Samsung Research America - New York \
 &emsp;&emsp;&thinsp;&thinsp;&thinsp;<span style="color: grey;">Jan 2020 - Aug 2020, New York, NY </span>
 
 <img src="/images/logos/RI_small.jpg?raw=true" alt="Photo" style="width: 40px;"/>&thinsp; **Summer Intern**, Robotics Institute, CMU \
-&emsp;&emsp;&emsp;<span style="color: grey;">June 2015 - Sep 2015, Pittsburgh, PA </span>
+&emsp;&emsp;&thinsp;&thinsp;&thinsp;<span style="color: grey;">June 2015 - Sep 2015, Pittsburgh, PA </span>
