@@ -21,7 +21,6 @@ My research interests are in the general area of ***Robotics*** mapping, plannin
 * I also implement practical robotic systems, e.g. autonomous robot mower, for these applications.
 
 ## <img src="/images/logos/celebrate.png?raw=true" alt="Photo" style="width: 60px;"/> News
-
 * **June, 2022**: I have joined Google as a Software Engineer in the Augmented Reality - Motion tracking team.
 * **Jan, 2022**: I have joined iRobot as a Senior Robotics Software Engineer working on the mapping and planning for the autonomous vacuum cleaners.
 * **June, 2021**: This summer I would be a Data Science intern at 3M.
@@ -29,13 +28,13 @@ My research interests are in the general area of ***Robotics*** mapping, plannin
 
 ## <img src="/images/logos/education.jpeg?raw=true" alt="Photo" style="width: 60px;"/> Education 
 <img src="/images/logos/umn-logo.png?raw=true" alt="Photo" style="width: 40px;"/> **University of Minnesota - Twin Cities** \
-&emsp;&emsp;&emsp; PhD, Computer Science, Aug 2016 - Jan 2022
-&emsp;&emsp;&emsp; Minneapolis, MN, US
+&emsp;&emsp; PhD, Computer Science, Aug 2016 - Jan 2022
+&emsp;&emsp; Minneapolis, MN, US
 
-<img src="/images/logos/ANU.jpeg?raw=true" alt="Photo" style="width: 40px;"/> **Australian National University** \
-&emsp;&emsp;&emsp; Undergraduate Exchange Program, June 2014 - Dec 2014
-&emsp;&emsp;&emsp; Canberra, Australia
+<img src="/images/logos/anu-logo.jpg?raw=true" alt="Photo" style="width: 40px;"/> **Australian National University** \
+&emsp;&emsp; Undergraduate Exchange Program, June 2014 - Dec 2014 \
+&emsp;&emsp; Canberra, Australia
 
 <img src="/images/logos/NJUST.png?raw=true" alt="Photo" style="width: 40px;"/> **Nanjing University of Science and Technology** \
-&emsp;&emsp;&emsp; B.E. in Computer Science and Technology, Sep 2012 - June 2016
-&emsp;&emsp;&emsp; Nanjing, China
+&emsp;&emsp; B.E. in Computer Science and Technology, Sep 2012 - June 2016 \
+&emsp;&emsp; Nanjing, China
