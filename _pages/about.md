@@ -40,14 +40,17 @@ My research interests are in the general area of ***Robotics*** mapping, plannin
 &emsp;&emsp;&thinsp; Nanjing, China
 
 ## <img src="/images/logos/paw.png?raw=true" alt="Photo" style="width: 60px;"/> Experiences 
-<img src="/images/logos/google.png?raw=true" alt="Photo" style="width: 40px;"/> **Software Engineer**, Google \
-&emsp;&emsp;&thinsp;<span style="color: grey;">Jun 2022 - Present, Mountain View, CA </span>
+<img src="/images/logos/google.png?raw=true" alt="Photo" style="width: 40px;"/>&thinsp; **Software Engineer**, Google \
+&emsp;&emsp;&thinsp;&thinsp;<span style="color: grey;">Jun 2022 - Present, Mountain View, CA </span>
 
-<img src="/images/logos/irobot.jpg?raw=true" alt="Photo" style="width: 40px;"/> **Senior Robotics Software Engineer**, iRobot \
-&emsp;&emsp;&thinsp;<span style="color: grey;">Jan 2022 - Jun 2022, Remote </span>
+<img src="/images/logos/irobot.jpg?raw=true" alt="Photo" style="width: 40px;"/>&thinsp; **Senior Robotics Software Engineer**, iRobot \
+&emsp;&emsp;&thinsp;&thinsp;<span style="color: grey;">Jan 2022 - Jun 2022, Remote </span>
 
-<img src="/images/logos/3M.jpg?raw=true" alt="Photo" style="width: 40px;"/> **Data Science Intern**, 3M \
-&emsp;&emsp;&thinsp;<span style="color: grey;">June 2021 - Aug 2021, Remote </span>
+<img src="/images/logos/3M.jpg?raw=true" alt="Photo" style="width: 40px;"/>&thinsp; **Data Science Intern**, 3M \
+&emsp;&emsp;&thinsp;&thinsp;<span style="color: grey;">June 2021 - Aug 2021, Remote </span>
 
-<img src="/images/logos/samsung-research.jpg?raw=true" alt="Photo" style="width: 40px;"/> **Research Intern**, Samsung Research America - New York \
-&emsp;&emsp;&thinsp;<span style="color: grey;">Jan 2020 - Aug 2020, New York, NY </span>
+<img src="/images/logos/samsung-research.jpg?raw=true" alt="Photo" style="width: 40px;"/>&thinsp; **Research Intern**, Samsung Research America - New York \
+&emsp;&emsp;&thinsp;&thinsp;<span style="color: grey;">Jan 2020 - Aug 2020, New York, NY </span>
+
+<img src="/images/logos/RI_small.jpg?raw=true" alt="Photo" style="width: 40px;"/>&thinsp; **Summer Intern**, Robotics Institute, CMU \
+&emsp;&emsp;&thinsp;&thinsp;<span style="color: grey;">June 2015 - Sep 2015, Pittsburgh, PA </span>
