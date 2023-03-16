@@ -28,8 +28,8 @@ My research interests are in the general area of ***Robotics*** mapping, plannin
 
 ## <img src="/images/logos/education.jpeg?raw=true" alt="Photo" style="width: 60px;"/> Education 
 <img src="/images/logos/umn-logo.png?raw=true" alt="Photo" style="width: 40px;"/> **University of Minnesota - Twin Cities** \
-&emsp;&emsp; PhD, Computer Science, Aug 2016 - Jan 2022
-&emsp;&emsp; Minneapolis, MN, US
+&emsp;&emsp;&thinsp; PhD, Computer Science, Aug 2016 - Jan 2022
+&emsp;&emsp;&thinsp; Minneapolis, MN, US
 
 <img src="/images/logos/anu-logo.jpg?raw=true" alt="Photo" style="width: 40px;"/> **Australian National University** \
 &emsp;&emsp; Undergraduate Exchange Program, June 2014 - Dec 2014 \
