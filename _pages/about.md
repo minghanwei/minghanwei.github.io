@@ -38,3 +38,7 @@ My research interests are in the general area of ***Robotics*** mapping, plannin
 <img src="/images/logos/NJUST.png?raw=true" alt="Photo" style="width: 40px;"/> **Nanjing University of Science and Technology** \
 &emsp;&emsp;&thinsp; B.E. in Computer Science and Technology, Sep 2012 - June 2016 \
 &emsp;&emsp;&thinsp; Nanjing, China
+
+## <img src="/images/logos/paw.png?raw=true" alt="Photo" style="width: 60px;"/> Experiences 
+<img src="/images/logos/google.jpg?raw=true" alt="Photo" style="width: 40px;"/>  &emsp;**Software Engineer**, Google \
+&emsp;&emsp;&emsp;&emsp;<span style="color: grey;">Jun 2022 - Present, Mountain View, CA </span>
