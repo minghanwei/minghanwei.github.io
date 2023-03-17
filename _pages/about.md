@@ -54,3 +54,9 @@ My research interests are in the general area of ***Robotics*** mapping, plannin
 
 <img src="/images/logos/RI_small.jpg?raw=true" alt="Photo" style="width: 40px;"/>&thinsp; **Summer Intern**, Robotics Institute, CMU \
 &emsp;&emsp;&thinsp;&thinsp;&thinsp;<span style="color: grey;">June 2015 - Sep 2015, Pittsburgh, PA </span>
+
+## More About Me
+
+* * My wife and I like playing video games together, e.g. Fortnight in duos mode, it takes two, Mario Kart.
+
+* * We also like outdoor activities, such as tubing, kayaking in national or state parks.
