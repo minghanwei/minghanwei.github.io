@@ -58,7 +58,5 @@ My research interests are in the general area of ***Robotics*** mapping, plannin
 ## More About Me
 
 * * My wife and I like playing video games together, e.g. Fortnight in duos mode, it takes two, Mario Kart.*
-
 * * We also like outdoor activities, such as tubing, kayaking in national or state parks.*
-
 * * We have two cats at home.*
