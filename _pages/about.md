@@ -12,7 +12,7 @@ redirect_from:
 
 ## Short Biography
 
-Hello, I am Wei (魏), Minghan (明瀚). I received my Ph.D. degree in Jan, 2022 from the Department of Computer Science and Engineering, University of Minnesota, under the supervision of [Prof. Volkan Isler](https://www-users.cse.umn.edu/~isler/).
+Hello, I am Minghan Wei. I received my Ph.D. degree in Jan, 2022 from the Department of Computer Science and Engineering, University of Minnesota, under the supervision of [Prof. Volkan Isler](https://www-users.cse.umn.edu/~isler/).
 
 My research interests are in the general area of ***Robotics*** mapping, planning, and control for practical indoor and field applications such as precision agriculture and environmental monitoring.
 * One focus of my research is to study how to improve energy efficiency of robots in these applications.
