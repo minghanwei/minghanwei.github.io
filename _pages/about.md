@@ -57,6 +57,10 @@ My research interests are in the general area of ***Robotics*** mapping, plannin
 
 ## More About Me
 
-* * My wife and I like playing video games together, e.g. Fortnight in duos mode, it takes two, Mario Kart.*
+* * My wife and I like playing video games together, e.g. Fortnight in duos mode, it takes two, Mario Kart*.
 * * We also like outdoor activities, such as tubing, kayaking in national or state parks.*
 * * We have two cats at home.*
+
+* *I play ukulele (and like to sing while playing to cover up the fact that chords are sometimes wrong)*.  
+* *I am actively learning tennis and swimming*.
+* *I play [Just Dance](https://www.ubisoft.com/en-us/game/just-dance/2021) like a pro.*
