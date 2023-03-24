@@ -2,6 +2,7 @@
 permalink: /research-projects/
 ---
 
+<p> </p>
 
 ## Coverage path planning under energy constraints
 <div style="overflow:auto">
