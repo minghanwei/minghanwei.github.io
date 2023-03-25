@@ -20,11 +20,10 @@ We have presented two approximation algorithms to this problem with theoretical 
 </div> -->
 
 <div class="container">
-  <img src="/images/energy-mapping.jpg?raw=true" alt="Photo" height="200px">
+  <img src="/images/energy-mapping.jpg?raw=true" alt="Photo" height="200px" style="margin-bottom: 10px;">
 </div>
-selector {
-  margin: 10px 0; /* 20px top and bottom, 0 left and right */
-}
 To apply existing planning algoirthms to find energy-optimal paths, energy-cost maps are required. Howevern, how to obtain energy-cost maps, especially for large non-uniform fields, has not been sufficiently solved.
 
 We use the collaboration between aerial and ground robots for data-collection, and apply learn-based methods to predict energy-cost maps for the given environments.
+
+## Occupancy map inpainting for online robot navigation
