@@ -15,7 +15,7 @@ permalink: /research-projects/
 </div>
 
 ## Energy mapping for planning energy-efficient paths with air-to-groud collaboration
-<div style="overflow:auto">
+<div class="container">
   <img src="/images/energy-mapping.jpg?raw=true" alt="Photo" style="height: 150px">
 </div>
 
