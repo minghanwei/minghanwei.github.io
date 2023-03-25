@@ -13,6 +13,7 @@ permalink: /research-projects/
 </div>
 We have presented two approximation algorithms to this problem with theoretical proof for the performance guarantee compared to the optimal solution.
 
+
 ## Energy mapping for planning energy-efficient paths with air-to-groud collaboration
 <!-- <div class="container">
   <img src="/images/energy-mapping.jpg?raw=true" alt="Photo" style="float:center; height: 150px">
@@ -21,7 +22,9 @@ We have presented two approximation algorithms to this problem with theoretical 
 <div class="container">
   <img src="/images/energy-mapping.jpg?raw=true" alt="Photo" height="200px">
 </div>
-
+selector {
+  margin: 10px 0; /* 20px top and bottom, 0 left and right */
+}
 To apply existing planning algoirthms to find energy-optimal paths, energy-cost maps are required. Howevern, how to obtain energy-cost maps, especially for large non-uniform fields, has not been sufficiently solved.
 
 We use the collaboration between aerial and ground robots for data-collection, and apply learn-based methods to predict energy-cost maps for the given environments.
