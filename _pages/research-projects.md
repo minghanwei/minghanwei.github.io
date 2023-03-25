@@ -20,7 +20,7 @@ permalink: /research-projects/
 </div> -->
 
 <div class="container">
-  <img src="/images/energy-mapping.jpg?raw=true" alt="Photo" height="200">
+  <img src="/images/energy-mapping.jpg?raw=true" alt="Photo" height="200px">
 </div>
 
 To apply existing planning algoirthms to find energy-optimal paths, energy-cost maps are required. Howevern, how to obtain energy-cost maps, especially for large non-uniform fields, has not been sufficiently solved.
