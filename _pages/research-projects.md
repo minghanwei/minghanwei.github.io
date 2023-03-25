@@ -16,7 +16,7 @@ permalink: /research-projects/
 
 ## Energy mapping for planning energy-efficient paths with air-to-groud collaboration
 <div class="container">
-  <img src="/images/energy-mapping.jpg?raw=true" alt="Photo" style="float:left; height: 150px">
+  <img src="/images/energy-mapping.jpg?raw=true" alt="Photo" style="float:center; height: 150px">
 </div>
 
 To apply existing planning algoirthms to find energy-optimal paths, energy-cost maps are required. Howevern, how to obtain energy-cost maps, especially for large non-uniform fields, has not been sufficiently solved. 
