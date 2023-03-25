@@ -16,9 +16,9 @@ permalink: /research-projects/
 
 ## Energy mapping for planning energy-efficient paths with air-to-groud collaboration
 <div style="overflow:auto">
-  <img src="/images/energy-mapping.jpg?raw=true" alt="Photo" style="float:left; margin-right: 10px; width: 300px">
+  <img src="/images/energy-mapping.jpg?raw=true" alt="Photo" style="float:center; margin-right: 10px; height: 100px">
 </div>
 
-Another challenge in the applications of field robots is the disconnect between current theoretical results and practical applications due to the difficulty of obtaining maps for path planning. 
+To apply existing planning algoirthms to find energy-optimal paths, energy-cost maps are required. Howevern, how to obtain energy-cost maps, especially for large non-uniform fields, has not been sufficiently solved. 
 
-We build the maps for large, non-uniform environments by combining the aerial images with the ground robot energy-consumption measurements. Deep networks are applied to learn from the collected data and predict the energy-cost maps for the entire area [3-5], [7].
+We use the collaboration between aerial and ground robots for data-collection, and apply learn-based methods to predict energy-cost maps for the given environments.
