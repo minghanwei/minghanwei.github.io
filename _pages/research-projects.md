@@ -25,7 +25,12 @@ We use the collaboration between aerial and ground robots for data-collection, a
 
 ## Occupancy map inpainting for online robot navigation
 <div style="overflow:auto">
-  <img src="/images/indoor-nav.JPG?raw=true" alt="Photo" style="float:left; margin-right: 10px; width: 300px; margin-bottom: 10px;">
+  <img src="/images/indoor-nav.jpg?raw=true" alt="Photo" style="float:left; margin-right: 10px; width: 300px; margin-bottom: 10px;">
   <p style="margin-left: 10px;">
   Indoor navigation using sensors with limited field of view and occlusion is a challenging task, especially for small-sized robot.</p>
 </div>
+
+<div class="container">
+  <img src="/images/occupancy-map-inpainting.jpg?raw=true" alt="Photo" height="200px" style="margin-bottom: 10px;">
+</div>
+We use a learning-based method to predict the occupancy of unseen areas around the robot (occupancy map inpainting). The training data is collected using a two-camera setup, where the high camera, which can see a larger area, is used to supervise the training. With the inpainted occupancy map, the robot reaches goal locations faster, compared to using the raw maps.
