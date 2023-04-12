@@ -15,9 +15,6 @@ We have presented two approximation algorithms to this problem with theoretical 
 
 
 ## Energy mapping for planning energy-efficient paths with air-to-groud collaboration
-<!-- <div class="container">
-  <img src="/images/energy-mapping.jpg?raw=true" alt="Photo" style="float:center; height: 150px">
-</div> -->
 
 <div class="container">
   <img src="/images/energy-mapping.jpg?raw=true" alt="Photo" height="200px" style="margin-bottom: 10px;">
@@ -27,3 +24,8 @@ To apply existing planning algoirthms to find energy-optimal paths, energy-cost 
 We use the collaboration between aerial and ground robots for data-collection, and apply learn-based methods to predict energy-cost maps for the given environments.
 
 ## Occupancy map inpainting for online robot navigation
+<div style="overflow:auto">
+  <img src="/images/indoor-nav.JPG?raw=true" alt="Photo" style="float:left; margin-right: 10px; width: 300px; margin-bottom: 10px;">
+  <p style="margin-left: 10px;">
+  Indoor navigation using sensors with limited field of view and occlusion is a challenging task, especially for small-sized robot.</p>
+</div>
