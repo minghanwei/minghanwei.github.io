@@ -42,6 +42,6 @@ Using robotic mowers instead of chemical herbicides for removing weeds in agricu
 </div>
 
 We also implemented a smaller platform that could navigate through narrow space such as corn rows. A demo video is available [here](https://drive.google.com/file/d/1Ndo3ITq_g58ODMreXcUEOwgSdjZ0zH9u/view).
-<div class="container">
+<div class="container" style="display: flex; justify-content: center; align-items: center; height: 100vh;">
   <img src="/images/corn-fields.jpg?raw=true" alt="Photo" height="200px" style="margin-bottom: 10px; align-items: center;">
 </div>
