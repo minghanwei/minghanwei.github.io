@@ -34,3 +34,14 @@ We use the collaboration between aerial and ground robots for data-collection, a
   <img src="/images/occupancy-map-inpainting.jpg?raw=true" alt="Photo" height="200px" style="margin-bottom: 10px;">
 </div>
 We use a learning-based method to predict the occupancy of unseen areas around the robot (occupancy map inpainting). The training data is collected using a two-camera setup, where the high camera, which can see a larger area, is used to supervise the training. With the inpainted occupancy map, the robot reaches goal locations faster, compared to using the raw maps.
+
+## 4. Agricultural weed control using autonomous robots
+Using robotic mowers instead of chemical herbicides for removing weeds in agricultural lands can not only reduce costs, but also protect our natural environment and keep the field organic. In this project, we developed a robotic platform for mowing weeds in pastures. A demo video is available [here]. (https://www.youtube.com/watch?v=27WGiFynvvg).
+<div class="container">
+  <img src="/images/cowbot-in-pasture.jpg?raw=true" alt="Photo" height="200px" style="margin-bottom: 10px;">
+</div>
+
+We also implemented a smaller platform that could navigate through narrow space such as corn rows. A demo video is available [here]. (https://drive.google.com/file/d/1Ndo3ITq_g58ODMreXcUEOwgSdjZ0zH9u/view)
+<div class="container">
+  <img src="/images/corn-fields.jpg?raw=true" alt="Photo" height="200px" style="margin-bottom: 10px;">
+</div>
