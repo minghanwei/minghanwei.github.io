@@ -21,6 +21,7 @@ My research interests are in the general area of ***Robotics*** perception, mapp
 * I also implement practical robotic systems, e.g. autonomous robot mower, for these applications.
 
 ## <img src="/images/logos/celebrate.png?raw=true" alt="Photo" style="width: 60px;"/> News
+* **June, 2023**: I will be joining Florida Atlantic University on August 7, 2023 as an assistant professor to pursue my robotics research.
 * **June, 2022**: I have joined Google as a Software Engineer in the Augmented Reality - Motion tracking team.
 * **Jan, 2022**: I have joined iRobot as a Senior Robotics Software Engineer working on the mapping and planning for the autonomous vacuum cleaners.
 * **June, 2021**: This summer I would be a Data Science intern at 3M.
