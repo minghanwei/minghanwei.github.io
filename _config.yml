@@ -82,12 +82,9 @@ analytics:
 author:
   name             : "Minghan Wei"
   avatar           : "myphoto.jpg"
-  bio              : "Ph.D. Department of Computer Science and Engineering, University of Minnesota."
-  location         : "Minnesota"
- # employer         :
- # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  bio              : "Assistant Professor, Department of Electrical Engineering and Computer Science, Florida Atlantic University"
   googlescholar    : "https://scholar.google.com/citations?user=i_PbBVgAAAAJ&hl=en"
-  email            : minghanwei19 at gmail.com
+  email            : weim@fau.edu
  # researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   # uri              :
   # bitbucket        :

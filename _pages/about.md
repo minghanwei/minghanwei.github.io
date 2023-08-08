@@ -20,7 +20,7 @@ My research interests are in the general area of ***Robotics*** perception, mapp
 * I study and design energy-aware path planning algorithms to minimize total energy consumption.
 * I also implement practical robotic systems, e.g. autonomous robot mower, for these applications.
 
-I am ***looking for*** highly self-motivated students to join my research group. Please send me your CV and transcript if you are interested in PhD positions in EECS department at Florida Atlantic University.
+I am ***looking for*** highly self-motivated students to join my research group. Please email me your CV and transcript if you are interested in PhD positions in EECS department at Florida Atlantic University.
 
 ## <img src="/images/logos/celebrate.png?raw=true" alt="Photo" style="width: 60px;"/> News
 * **June, 2023**: I will be joining Florida Atlantic University on August 7, 2023 as an assistant professor to pursue my robotics research.
