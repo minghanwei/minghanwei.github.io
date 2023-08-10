@@ -42,9 +42,12 @@ I am ***looking for*** highly self-motivated students to join my research group.
 &emsp;&emsp;&thinsp; B.E. in Computer Science and Technology, Sep 2012 - June 2016 \
 &emsp;&emsp;&thinsp; Nanjing, China
 
-## <img src="/images/logos/paw.png?raw=true" alt="Photo" style="width: 60px;"/> Experiences 
+## <img src="/images/logos/paw.png?raw=true" alt="Photo" style="width: 60px;"/> Experiences
+<img src="/images/logos/fau-logo.png?raw=true" alt="Photo" style="width: 40px;"/>&thinsp; **Assistant Professor**, Florida Atlantic University \
+&emsp;&emsp;&thinsp;&thinsp;&thinsp;<span style="color: grey;">Aug 2023 - Present, Boca Raton, FL </span>
+
 <img src="/images/logos/google.png?raw=true" alt="Photo" style="width: 40px;"/>&thinsp; **Software Engineer**, Google \
-&emsp;&emsp;&thinsp;&thinsp;&thinsp;<span style="color: grey;">Jun 2022 - Present, Mountain View, CA </span>
+&emsp;&emsp;&thinsp;&thinsp;&thinsp;<span style="color: grey;">Jun 2022 - June 2023, Mountain View, CA </span>
 
 <img src="/images/logos/irobot.jpg?raw=true" alt="Photo" style="width: 40px;"/>&thinsp; **Senior Robotics Software Engineer**, iRobot \
 &emsp;&emsp;&thinsp;&thinsp;&thinsp;<span style="color: grey;">Jan 2022 - Jun 2022, Remote </span>
