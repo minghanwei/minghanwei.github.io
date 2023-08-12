@@ -12,7 +12,7 @@ redirect_from:
 
 ## Short Biography
 
-Hello, I am Minghan Wei. I received my Ph.D. degree in Jan, 2022 from the Department of Computer Science and Engineering, University of Minnesota, under the supervision of [Prof. Volkan Isler](https://www-users.cse.umn.edu/~isler/).
+Hello, I am Minghan Wei, an assistant professor in EECS department at FAU. I received my Ph.D. degree in Jan, 2022 from the Department of Computer Science and Engineering, University of Minnesota, under the supervision of [Prof. Volkan Isler](https://www-users.cse.umn.edu/~isler/).
 
 My research interests are in the general area of ***Robotics*** perception, mapping, planning, and control for practical indoor and field applications such as precision agriculture and environmental monitoring.
 * One focus of my research is to study how to improve energy efficiency of robots in these applications.
@@ -20,7 +20,7 @@ My research interests are in the general area of ***Robotics*** perception, mapp
 * I study and design energy-aware path planning algorithms to minimize total energy consumption.
 * I also implement practical robotic systems, e.g. autonomous robot mower, for these applications.
 
-I am ***looking for*** highly self-motivated students to join my research group. Please email me your CV and transcript if you are interested in PhD positions in EECS department at Florida Atlantic University.
+I am ***looking for*** highly self-motivated students to join my research group at FAU. Please email me your CV and transcript if you are interested in PhD positions in EECS department at Florida Atlantic University.
 
 ## <img src="/images/logos/celebrate.png?raw=true" alt="Photo" style="width: 60px;"/> News
 * **June, 2023**: I will be joining Florida Atlantic University on August 7, 2023 as an assistant professor to pursue my robotics research.
