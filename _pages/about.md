@@ -15,10 +15,10 @@ redirect_from:
 Hello, I am Minghan Wei, an assistant professor in EECS department at FAU. I received my Ph.D. degree in Jan, 2022 from the Department of Computer Science and Engineering, University of Minnesota, under the supervision of [Prof. Volkan Isler](https://www-users.cse.umn.edu/~isler/).
 
 My research interests are in the general area of ***Robotics*** perception, mapping, planning, and control for practical indoor and field applications such as precision agriculture and environmental monitoring.
-* One focus of my research is to study how to improve energy efficiency of robots in these applications.
-* I study how to apply learning-based methods to predict energy-cost maps so that energy optimal paths can be planned.
+* One focus of my research is to study how to improve the energy efficiency of robots in these applications.
+* I study how to apply learning-based methods to predict energy-cost maps so that energy-optimal paths can be planned.
 * I study and design energy-aware path planning algorithms to minimize total energy consumption.
-* I also implement practical robotic systems, e.g. autonomous robot mower, for these applications.
+* I also implement practical robotic systems, e.g. autonomous robot mowers, for these applications.
 
 I am ***looking for*** highly self-motivated students to join my research group at FAU. Please email me your CV and transcript if you are interested in PhD positions in EECS department at Florida Atlantic University.
 
