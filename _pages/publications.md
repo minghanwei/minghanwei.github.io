@@ -7,7 +7,7 @@ permalink: /publications/
 ## Conference and Journal Publications
 * Cheng Peng, Minghan Wei, and Volkan Isler. \
 Stochastic Travelling Salesperson Problem with Neighborhoods for Object Detections. \
-  *IEEE International Conference on Robotics and Automation* (**ICRA**), 2022. (accepted)
+  *IEEE International Conference on Robotics and Automation* (**ICRA**), 2023.
   
 * Minghan Wei, Volkan Isler. \
  Predicting Energy Consumption of Ground Robots on General Terrains. \
