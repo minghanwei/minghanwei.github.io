@@ -12,6 +12,6 @@ I enjoyed helping students master new knowledge and skills in computer science, 
 I served as a teaching assistant for the following course at the University of Minnesota. I received the Teaching Assistant at UMN in recognition of my efforts in helping students succeed in class.
 
 - CSCI 2033: Elementary Computational Linear Algebra (Fall 2016)
-  - Teaching assistant (Received the Best TA award)
+  - Teaching assistant
     - Lecturing.
     - Recitation sections, office hours, grading
