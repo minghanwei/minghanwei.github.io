@@ -22,7 +22,7 @@ My research interests are in the general area of ***Robotics*** perception, mapp
 
 I am ***looking for*** highly self-motivated students to join my research group at FAU. Please email me your CV and transcript if you are interested in PhD positions in EECS department at Florida Atlantic University.
 
-## <img src="/images/logos/celebrate.png?raw=true" alt="Photo" style="width: 60px;"/> News
+## <img src="/images/logos/celebrate.png?raw=true" alt="Photo" style="width: 30px;"/> News
 * **June, 2023**: I will be joining Florida Atlantic University on August 7, 2023 as an assistant professor to pursue my robotics research.
 * **June, 2022**: I have joined Google as a Software Engineer in the Augmented Reality - Motion tracking team.
 * **Jan, 2022**: I have joined iRobot as a Senior Robotics Software Engineer working on the mapping and planning for the autonomous vacuum cleaners.
