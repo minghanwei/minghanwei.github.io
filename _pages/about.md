@@ -7,7 +7,7 @@ redirect_from:
 ---
 
 <p align="center">
- <img src="/images/myphoto-2.jpg?raw=true" alt="Photo" style="width: 400px;"/> 
+ <img src="/images/headshot_wedding?raw=true" alt="Photo" style="width: 400px;"/> 
 </p>
 
 ## Short Biography
