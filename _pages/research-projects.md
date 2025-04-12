@@ -63,7 +63,8 @@ We also implemented a smaller platform that could navigate through narrow space 
   <iframe 
     src="https://drive.google.com/file/d/1Ndo3ITq_g58ODMreXcUEOwgSdjZ0zH9u/preview"
     style="width: 100%; max-width: 640px; aspect-ratio: 16 / 9; border: none;"
-    allow="autoplay">
+    allow="autoplay; encrypted-media; fullscreen"
+    allowfullscreen>
   </iframe>
 </div>
 
