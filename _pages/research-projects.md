@@ -37,8 +37,13 @@ We use a learning-based method to predict the occupancy of unseen areas around t
 
 ## 4. Agricultural weed control using autonomous robots
 Using robotic mowers instead of chemical herbicides for removing weeds in agricultural lands can not only reduce costs, but also protect our natural environment and keep the field organic. In this project, we developed a robotic platform for mowing weeds in pastures. A demo video is available [here](https://www.youtube.com/watch?v=27WGiFynvvg).
-<div class="container">
-  <img src="/images/cowbot-in-pasture.jpg?raw=true" alt="Photo" height="50px" style="margin-bottom: 10px; align-items: center;">
+<div style="display: flex; justify-content: center; margin-top: 10px; margin-bottom: 20px;">
+  <iframe 
+    src="https://www.youtube.com/embed/mVVQWA6jrS4" 
+    style="width: 100%; max-width: 640px; aspect-ratio: 16 / 9; border: none;" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allowfullscreen>
+  </iframe>
 </div>
 
 We also implemented a smaller platform that could navigate through narrow space such as corn rows.
