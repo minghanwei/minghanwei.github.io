@@ -58,7 +58,7 @@ Maintaining organic and sustainable agriculture demands alternatives to chemical
 
 <div style="text-align: center; margin-top: 10px; margin-bottom: 20px;">
   <iframe 
-    src="https://www.youtube.com/embed/mVVQWA6jrS4" 
+    src="https://www.youtube.com/embed/mVVQWA6jrS4/preview" 
     style="width: 100%; max-width: 640px; aspect-ratio: 16 / 9; border: none;" 
     allow="autoplay; encrypted-media; fullscreen"
     allowfullscreen>
