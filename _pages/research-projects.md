@@ -14,7 +14,7 @@ permalink: /research-projects/
 ### Macroalgae Harvesting for Tank Aquaculture With Autonomous Robots
 Macroalgae harvesting plays a critical role in the integrated multi-trophic aquaculture ([IMTA](https://www.fau.edu/hboi/research/aquaculture-innovation/center-for-marine-and-warm-water-aquaculture/research/imta/)) system developed at FAU HBOI. As aquaculture operations scale up, efficient and consistent macroalgae collection becomes increasingly essential for maintaining ecological balance and maximizing system productivity.
 
-To address the challenges posed by large-scale operations including spatial complexity, repetitive motion, and time sensitivity, we are exploring autonomous robotic solutions that can perform harvesting tasks with high reliability and precision. Below is a demonstration from our lab, showcasing early results led by an undergraduate researcher Shuaib Olanrewaju. Our ongoing efforts are focused on expanding this capability to mobile ground robots for full-field deployment in real-world environments.
+To address the challenges posed by large-scale operations including spatial complexity, repetitive motion, and time sensitivity, we are exploring autonomous robotic solutions that can perform harvesting tasks with high reliability and precision. Below is a early-result demonstration that mimics harvesting motion in aquaculture tanks, implemented by an undergraduate researcher Shuaib Olanrewaju from our lab. Our ongoing efforts are focused on expanding this capability to mobile ground robots for full-field deployment in real-world environments.
 
 <div style="margin-top: 10px; margin-bottom: 20px;">
   <video controls style="display: block; margin: 0 auto; width: 100%; max-width: 640px;">
