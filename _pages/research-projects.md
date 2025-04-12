@@ -33,17 +33,15 @@ To address the challenges posed by large-scale operations including spatial comp
 <div style="overflow:auto">
   <img src="/images/multi-paths.jpg?raw=true" alt="Photo" style="float:left; margin-right: 10px; width: 300px; margin-bottom: 10px;">
   <p style="margin-left: 10px;">
-  A practical robot works under energy constraints. To cover a large area, it may not be able to finish the task in one iteration. It needs to visit a recharging station to get recharged and then continue the work. Multiple paths need to be planned, and the robot needs to be recharged between two paths.</p>
+  Effectively deploying autonomous robots in large environments requires strategic planning, especially when energy resources are limited. This project tackles the problem of persistent coverage by mobile robots that must periodically recharge. Instead of relying on a single long path, we develop algorithms to segment the coverage task into multiple energy-feasible paths, each routed through a recharging station. </p>
 </div>
-We have presented two approximation algorithms to this problem with theoretical proof for the performance guarantee compared to the optimal solution.
+Our work includes two approximation algorithms with provable performance guarantees, making it a strong theoritical foundation for real-world robotic deployment in energy-constrained settings.
 
 ### Energy mapping for planning energy-efficient paths with air-to-ground collaboration
 <div class="container">
   <img src="/images/energy-mapping.jpg?raw=true" alt="Photo" height="200px" style="margin-bottom: 10px;">
 </div>
-To apply existing planning algorithms to find energy-optimal paths, energy-cost maps are required. However, how to obtain energy-cost maps, especially for large non-uniform fields, has not been sufficiently solved.
-
-We use the collaboration between aerial and ground robots for data collection, and apply learning-based methods to predict energy-cost maps for the given environments.
+Energy-efficient navigation is a key challenge in autonomous field robotics, particularly when operating over large, non-uniform terrains. This project addresses the missing piece in energy-aware planning: the generation of accurate energy-cost maps. We leverage aerial–ground collaboration to collect relevant field data and apply machine learning models to infer spatially varying energy costs. These maps enable the application of standard planning algorithms while significantly improving energy efficiency across diverse environments.
 
 ### Occupancy map inpainting for online robot navigation
 <div style="overflow:auto">
@@ -55,10 +53,11 @@ We use the collaboration between aerial and ground robots for data collection, a
 <div class="container">
   <img src="/images/occupancy-map-inpainting.jpg?raw=true" alt="Photo" height="200px" style="margin-bottom: 10px;">
 </div>
-We use a learning-based method to predict the occupancy of unseen areas around the robot (occupancy map inpainting). The training data is collected using a two-camera setup, where the high camera, which can see a larger area, is used to supervise the training. With the inpainted occupancy map, the robot reaches goal locations faster, compared to using the raw maps.
+Safe and efficient navigation in indoor or cluttered environments often suffers from occlusions and sensor limitations. This project explores a novel learning-based approach to occupancy map inpainting, which predicts the layout of unseen areas based on limited sensory data. Using a two-camera system, we train models to infer missing map regions, allowing the robot to proactively plan paths and avoid potential hazards. Our results show that inpainted maps lead to faster goal-reaching behavior and improved navigation robustness.
+
 
 ### Agricultural weed control using autonomous robots
-Using robotic mowers instead of chemical herbicides for removing weeds in agricultural lands can not only reduce costs, but also protect our natural environment and keep the field organic. In this project, we developed a robotic platform for mowing weeds in pastures.
+Maintaining organic and sustainable agriculture demands alternatives to chemical herbicides, especially for weed control. In this project, we developed an autonomous robotic platform capable of mowing unwanted vegetation in pasturelands. This solution not only reduces chemical usage but also provides scalable, cost-effective weed management. We also prototyped a compact robotic system designed to navigate tight rows in crop fields such as corn. Together, these systems support more eco-friendly farming practices through intelligent automation.
 
 <div style="display: flex; justify-content: center; margin-top: 10px; margin-bottom: 20px;">
   <iframe 
@@ -68,8 +67,6 @@ Using robotic mowers instead of chemical herbicides for removing weeds in agricu
     allowfullscreen>
   </iframe>
 </div>
-
-We also implemented a smaller platform that could navigate through narrow space such as corn rows.
 
 <div style="display: flex; justify-content: center; margin-top: 10px; margin-bottom: 20px;">
   <iframe 
