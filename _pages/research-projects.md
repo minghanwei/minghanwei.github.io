@@ -56,10 +56,10 @@ Safe and efficient navigation in indoor or cluttered environments often suffers 
 ### Agricultural weed control using autonomous robots
 Maintaining organic and sustainable agriculture demands alternatives to chemical herbicides, especially for weed control. In this project, we developed an autonomous robotic platform capable of mowing unwanted vegetation in pasturelands. This solution not only reduces chemical usage but also provides scalable, cost-effective weed management. We also prototyped a compact robotic system designed to navigate tight rows in crop fields such as corn. Together, these systems support more eco-friendly farming practices through intelligent automation.
 
-<div style="display: flex; justify-content: center; margin-top: 10px; margin-bottom: 20px;">
+<div style="text-align: center; margin-top: 10px; margin-bottom: 20px;">
   <iframe 
     src="https://www.youtube.com/embed/mVVQWA6jrS4" 
-    style="display: block; margin: 0 auto; width: 100%; max-width: 640px; aspect-ratio: 16 / 9; border: none;" 
+    style="width: 100%; max-width: 640px; aspect-ratio: 16 / 9; border: none;" 
     allow="autoplay; encrypted-media; fullscreen"
     allowfullscreen>
   </iframe>
