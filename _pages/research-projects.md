@@ -52,7 +52,7 @@ Using robotic mowers instead of chemical herbicides for removing weeds in agricu
   <iframe 
     src="https://www.youtube.com/embed/mVVQWA6jrS4" 
     style="width: 100%; max-width: 640px; aspect-ratio: 16 / 9; border: none;" 
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allow="autoplay; encrypted-media; fullscreen"
     allowfullscreen>
   </iframe>
 </div>
