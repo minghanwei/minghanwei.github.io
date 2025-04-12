@@ -52,5 +52,5 @@ We also implemented a smaller platform that could navigate through narrow space 
 
 <div style="display: flex; justify-content: center; gap: 15px; margin-bottom: 30px; flex-wrap: wrap;">
   <img src="/images/corn-fields.jpg?raw=true" alt="Photo" 
-       style="width: 100%; max-width: 400px; height: auto;">
+       style="width: 100%; max-width: 640px; height: auto;">
 </div>
