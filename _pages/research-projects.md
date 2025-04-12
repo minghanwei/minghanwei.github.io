@@ -18,7 +18,7 @@ To address the challenges posed by large-scale operations including spatial comp
 
 <div style="display: flex; justify-content: center; margin-top: 10px; margin-bottom: 20px;">
   <iframe 
-    src="https://drive.google.com/file/d/1SPv8F3huH8VYj9-ckr7fh-2G9ymBuPh_/view?usp=drive_link/preview"
+    src="https://drive.google.com/file/d/1SPv8F3huH8VYj9-ckr7fh-2G9ymBuPh_/view?usp=sharing/preview"
     style="width: 100%; max-width: 640px; aspect-ratio: 16 / 9; border: none;"
     allow="autoplay; encrypted-media; fullscreen"
     allowfullscreen>
