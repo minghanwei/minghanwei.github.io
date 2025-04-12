@@ -16,13 +16,10 @@ Macroalgae harvesting plays a critical role in the integrated multi-trophic aqua
 
 To address the challenges posed by large-scale operations including spatial complexity, repetitive motion, and time sensitivity, we are exploring autonomous robotic solutions that can perform harvesting tasks with high reliability and precision. Below is a demonstration from our lab, showcasing early results led by an undergraduate researcher Shuaib Olanrewaju. Our ongoing efforts are focused on expanding this capability to mobile ground robots for full-field deployment in real-world environments.
 
-<div style="display: flex; justify-content: center; margin-top: 10px; margin-bottom: 20px;">
-  <iframe 
-    src="https://drive.google.com/file/d/1SPv8F3huH8VYj9-ckr7fh-2G9ymBuPh_/view?usp=sharing/preview"
-    style="width: 100%; max-width: 640px; aspect-ratio: 16 / 9; border: none;"
-    allow="autoplay; encrypted-media; fullscreen"
-    allowfullscreen>
-  </iframe>
+<div style="margin-top: 10px; margin-bottom: 20px;">
+  <video controls style="display: block; margin: 0 auto; width: 100%; max-width: 640px;">
+    <source src="/files/aqu_harvest.mp4" type="video/mp4">
+  </video>
 </div>
 
 ---
