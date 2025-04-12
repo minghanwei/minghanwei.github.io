@@ -50,7 +50,5 @@ We also implemented a smaller platform that could navigate through narrow space 
 
 <!-- Line 2: Three Images Centered in a Row -->
 <div style="display: flex; justify-content: center; gap: 15px; margin-bottom: 30px;">
-  <img src="/images/corn-fields-1.jpg?raw=true" alt="Corn field top view" height="200px">
-  <img src="/images/corn-fields.jpg?raw=true" alt="Robot in corn field" height="200px">
-  <img src="/images/corn-fields-2.jpg?raw=true" alt="Corn row path" height="200px">
+  <img src="/images/corn-fields.jpg?raw=true" alt="Photo" height="200px">
 </div>
