@@ -43,12 +43,14 @@ Using robotic mowers instead of chemical herbicides for removing weeds in agricu
 
 We also implemented a smaller platform that could navigate through narrow space such as corn rows.
 <div style="display: flex; justify-content: center; margin-top: 10px; margin-bottom: 20px;">
-  <iframe src="https://drive.google.com/file/d/1Ndo3ITq_g58ODMreXcUEOwgSdjZ0zH9u/preview" 
-          width="560" height="315" allow="autoplay">
+  <iframe 
+    src="https://drive.google.com/file/d/1Ndo3ITq_g58ODMreXcUEOwgSdjZ0zH9u/preview"
+    style="width: 100%; max-width: 640px; aspect-ratio: 16 / 9; border: none;"
+    allow="autoplay">
   </iframe>
 </div>
 
-<!-- Line 2: Three Images Centered in a Row -->
-<div style="display: flex; justify-content: center; gap: 15px; margin-bottom: 30px;">
-  <img src="/images/corn-fields.jpg?raw=true" alt="Photo" height="200px">
+<div style="display: flex; justify-content: center; gap: 15px; margin-bottom: 30px; flex-wrap: wrap;">
+  <img src="/images/corn-fields.jpg?raw=true" alt="Photo" 
+       style="width: 100%; max-width: 400px; height: auto;">
 </div>
