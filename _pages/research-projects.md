@@ -14,7 +14,7 @@ permalink: /research-projects/
 ### Macroalgae Harvesting for Tank Aquaculture With Autonomous Robots
 Macroalgae harvesting plays a critical role in the integrated multi-trophic aquaculture ([IMTA](https://www.fau.edu/hboi/research/aquaculture-innovation/center-for-marine-and-warm-water-aquaculture/research/imta/)) system developed at FAU HBOI. As aquaculture operations scale up, efficient and consistent macroalgae collection becomes increasingly essential for maintaining ecological balance and maximizing system productivity.
 
-To address the challenges posed by large-scale operations including spatial complexity, repetitive motion, and time sensitivity, we are exploring autonomous robotic solutions that can perform harvesting tasks with high reliability and precision. Below is a early-result demonstration that mimics harvesting motion in aquaculture tanks, implemented by an undergraduate researcher Shuaib Olanrewaju from our lab. Our ongoing efforts are focused on expanding this capability to mobile ground robots for full-field deployment in real-world environments.
+To address the challenges posed by large-scale operations including spatial complexity, repetitive motion, and time sensitivity, we are exploring autonomous robotic solutions that can perform harvesting tasks with high reliability and precision. Below is an early-result demonstration that mimics harvesting motion in aquaculture tanks, implemented by an undergraduate researcher Shuaib Olanrewaju from our lab. Our ongoing efforts are focused on expanding this capability to mobile ground robots for full-field deployment in real-world environments.
 
 <div style="margin-top: 10px; margin-bottom: 20px;">
   <video controls style="display: block; margin: 0 auto; width: 100%; max-width: 640px;">
@@ -34,9 +34,9 @@ To address the challenges posed by large-scale operations including spatial comp
   <p style="margin-left: 10px;">
   Effectively deploying autonomous robots in large environments requires strategic planning, especially when energy resources are limited. This project tackles the problem of persistent coverage by mobile robots that must periodically recharge. Instead of relying on a single long path, we develop algorithms to segment the coverage task into multiple energy-feasible paths, each routed through a recharging station. </p>
 </div>
-Our work includes two approximation algorithms with provable performance guarantees, making it a strong theoritical foundation for real-world robotic deployment in energy-constrained settings.
+Our work includes two approximation algorithms with provable performance guarantees, a strong theoretical foundation for real-world robotic deployment in energy-constrained settings.
 <p style="font-size: 90%; font-style: italic; text-align: center; margin-top: -10px;">
-  This research was mainly supported by my Advisor's NSF funded projects.
+  This research was supported by NSF-funded projects led by my Ph.D. advisor.
 </p>
 
 ### Energy mapping for planning energy-efficient paths with air-to-ground collaboration
@@ -49,7 +49,7 @@ Energy-efficient navigation is a key challenge in autonomous field robotics, par
        style="width: 100%; max-width: 640px; height: auto;">
 </div>
 <p style="font-size: 90%; font-style: italic; text-align: center; margin-top: -10px;">
-  This research was mainly supported by my Advisor's NSF funded projects.
+  This research was supported by NSF-funded projects led by my Ph.D. advisor.
 </p>
 
 ### Occupancy map inpainting for online robot navigation
