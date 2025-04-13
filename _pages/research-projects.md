@@ -35,7 +35,7 @@ To address the challenges posed by large-scale operations including spatial comp
   Effectively deploying autonomous robots in large environments requires strategic planning, especially when energy resources are limited. This project tackles the problem of persistent coverage by mobile robots that must periodically recharge. Instead of relying on a single long path, we develop algorithms to segment the coverage task into multiple energy-feasible paths, each routed through a recharging station. </p>
 </div>
 Our work includes two approximation algorithms with provable performance guarantees, a strong theoretical foundation for real-world robotic deployment in energy-constrained settings.
-<p style="font-size: 90%; font-style: italic; text-align: center; margin-top: -10px;">
+<p style="font-size: 80%; font-style: italic; text-align: center; margin-top: -10px;">
   This research was supported by NSF-funded projects led by my Ph.D. advisor.
 </p>
 
@@ -48,7 +48,7 @@ Energy-efficient navigation is a key challenge in autonomous field robotics, par
   <img src="/images/corn-fields.jpg?raw=true" alt="Photo" 
        style="width: 100%; max-width: 640px; height: auto;">
 </div>
-<p style="font-size: 90%; font-style: italic; text-align: center; margin-top: -10px;">
+<p style="font-size: 80%; font-style: italic; text-align: center; margin-top: -10px;">
   This research was supported by NSF-funded projects led by my Ph.D. advisor.
 </p>
 
@@ -68,7 +68,7 @@ Safe and efficient navigation in indoor or cluttered environments often suffers 
        style="width: 100%; max-width: 640px; height: auto;">
 </div>
 
-<p style="font-size: 90%; font-style: italic; text-align: center; margin-top: -10px;">
+<p style="font-size: 80%; font-style: italic; text-align: center; margin-top: -10px;">
   This project was completed during my internship at Samsung Research America, New York.
 </p>
 
@@ -98,7 +98,7 @@ Maintaining organic and sustainable agriculture demands alternatives to chemical
   <img src="/images/corn-fields.jpg?raw=true" alt="Photo" 
        style="width: 100%; max-width: 640px; height: auto;">
 </div>
-<p style="font-size: 90%; font-style: italic; text-align: center; margin-top: -10px;">
+<p style="font-size: 80%; font-style: italic; text-align: center; margin-top: -10px;">
   This project was supported by the <a href="https://www.lccmr.mn.gov/projects/2018-index.html" target="_blank">Environment and Natural Resources Trust Fund of LCCMR</a>, Minnesota.
 </p>
 
