@@ -22,7 +22,7 @@ To address the challenges posed by large-scale operations including spatial comp
   </video>
 </div>
 <p style="font-size: 90%; font-style: italic; text-align: center; margin-top: -10px;">
-  This research was mainly supported by the <a href="https://hboifoundation.org/HBOI-24-AReport/" target="_blank">Harbor Branch Oceanographic Institute Foundation</a> at FAU as a SLP project.
+  This research was mainly supported by the <a href="https://hboifoundation.org/HBOI-24-AReport/" target="_blank">Harbor Branch Oceanographic Institute Foundation</a> at FAU as an SLP project.
 </p>
 ---
 
