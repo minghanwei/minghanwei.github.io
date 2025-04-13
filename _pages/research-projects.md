@@ -78,5 +78,8 @@ Maintaining organic and sustainable agriculture demands alternatives to chemical
   <img src="/images/corn-fields.jpg?raw=true" alt="Photo" 
        style="width: 100%; max-width: 640px; height: auto;">
 </div>
+<p style="font-size: 90%; font-style: italic; text-align: center; margin-top: -10px;">
+  This project was supported by the Environment and Natural Resources Trust Fund of LCCMR, Minnesota [link](https://www.lccmr.mn.gov/projects/2018-index.html).
+</p>
 
 ---
