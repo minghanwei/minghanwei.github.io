@@ -39,6 +39,13 @@ Our work includes two approximation algorithms with provable performance guarant
   <img src="/images/energy-mapping.jpg?raw=true" alt="Photo" height="200px" style="margin-bottom: 10px;">
 </div>
 Energy-efficient navigation is a key challenge in autonomous field robotics, particularly when operating over large, non-uniform terrains. This project addresses the missing piece in energy-aware planning: the generation of accurate energy-cost maps. We leverage aerial–ground collaboration to collect relevant field data and apply machine learning models to infer spatially varying energy costs. These maps enable the application of standard planning algorithms while significantly improving energy efficiency across diverse environments.
+<div style="display: flex; justify-content: center; gap: 15px; margin-bottom: 30px; flex-wrap: wrap;">
+  <img src="/images/corn-fields.jpg?raw=true" alt="Photo" 
+       style="width: 100%; max-width: 640px; height: auto;">
+</div>
+<p style="font-size: 90%; font-style: italic; text-align: center; margin-top: -10px;">
+  This research was supported by my Advisor's NSF funded project  
+</p>
 
 ### Occupancy map inpainting for online robot navigation
 <div style="overflow:auto">
@@ -51,6 +58,14 @@ Energy-efficient navigation is a key challenge in autonomous field robotics, par
   <img src="/images/occupancy-map-inpainting.jpg?raw=true" alt="Photo" height="200px" style="margin-bottom: 10px;">
 </div>
 Safe and efficient navigation in indoor or cluttered environments often suffers from occlusions and sensor limitations. This project explores a novel learning-based approach to occupancy map inpainting, which predicts the layout of unseen areas based on limited sensory data. Using a two-camera system, we train models to infer missing map regions, allowing the robot to proactively plan paths and avoid potential hazards. Our results show that inpainted maps lead to faster goal-reaching behavior and improved navigation robustness.
+<div style="display: flex; justify-content: center; gap: 15px; margin-bottom: 30px; flex-wrap: wrap;">
+  <img src="/images/corn-fields.jpg?raw=true" alt="Photo" 
+       style="width: 100%; max-width: 640px; height: auto;">
+</div>
+
+<p style="font-size: 90%; font-style: italic; text-align: center; margin-top: -10px;">
+  This project was completed during my internship at Samsung Research America, New York.
+</p>
 
 
 ### Agricultural weed control using autonomous robots
@@ -79,7 +94,7 @@ Maintaining organic and sustainable agriculture demands alternatives to chemical
        style="width: 100%; max-width: 640px; height: auto;">
 </div>
 <p style="font-size: 90%; font-style: italic; text-align: center; margin-top: -10px;">
-  This project was supported by the ([Environment and Natural Resources Trust Fund of LCCMR]((https://www.lccmr.mn.gov/projects/2018-index.html))), Minnesota.
+  This project was supported by the <a href="https://www.lccmr.mn.gov/projects/2018-index.html" target="_blank">Environment and Natural Resources Trust Fund of LCCMR</a>, Minnesota.
 </p>
 
 ---
