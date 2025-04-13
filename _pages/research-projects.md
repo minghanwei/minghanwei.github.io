@@ -21,7 +21,9 @@ To address the challenges posed by large-scale operations including spatial comp
     <source src="/files/aqu_harvest.mp4" type="video/mp4">
   </video>
 </div>
-
+<p style="font-size: 90%; font-style: italic; text-align: center; margin-top: -10px;">
+  This research was mainly supported by the <a href="https://hboifoundation.org/HBOI-24-AReport/" target="_blank">Harbor Branch Oceanographic Institute Foundation</a> at FAU as a SLP project.
+</p>
 ---
 
 ## Projects During Ph.D. at University of Minnesota - Twin Cities
@@ -33,6 +35,9 @@ To address the challenges posed by large-scale operations including spatial comp
   Effectively deploying autonomous robots in large environments requires strategic planning, especially when energy resources are limited. This project tackles the problem of persistent coverage by mobile robots that must periodically recharge. Instead of relying on a single long path, we develop algorithms to segment the coverage task into multiple energy-feasible paths, each routed through a recharging station. </p>
 </div>
 Our work includes two approximation algorithms with provable performance guarantees, making it a strong theoritical foundation for real-world robotic deployment in energy-constrained settings.
+<p style="font-size: 90%; font-style: italic; text-align: center; margin-top: -10px;">
+  This research was mainly supported by my Advisor's NSF funded projects.
+</p>
 
 ### Energy mapping for planning energy-efficient paths with air-to-ground collaboration
 <div class="container">
@@ -44,7 +49,7 @@ Energy-efficient navigation is a key challenge in autonomous field robotics, par
        style="width: 100%; max-width: 640px; height: auto;">
 </div>
 <p style="font-size: 90%; font-style: italic; text-align: center; margin-top: -10px;">
-  This research was supported by my Advisor's NSF funded project  
+  This research was mainly supported by my Advisor's NSF funded projects.
 </p>
 
 ### Occupancy map inpainting for online robot navigation
