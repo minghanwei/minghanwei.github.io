@@ -5,36 +5,31 @@ permalink: /publications/
 <p> </p>
 
 ## Conference and Journal Publications
-* Cheng Peng, Minghan Wei, and Volkan Isler. \
-Stochastic Travelling Salesperson Problem with Neighborhoods for Object Detections. \
+* Cheng, Wen-Chung, Zhen Ni, Xiangnan Zhong, and Minghan Wei. "Autonomous Robot Goal Seeking and Collision Avoidance in the Physical World: An Automated Learning and Evaluation Framework Based on the PPO Method". \
+  *Applied Sciences 14, no. 23 (2024): 11020.
+
+* Cheng Peng, Minghan Wei, and Volkan Isler. "Stochastic Travelling Salesperson Problem with Neighborhoods for Object Detections". \
   *IEEE International Conference on Robotics and Automation* (**ICRA**), 2023.
   
-* Minghan Wei, Volkan Isler. \
- Predicting Energy Consumption of Ground Robots on General Terrains. \
+* Minghan Wei, Volkan Isler. Predicting Energy Consumption of Ground Robots on General Terrains. \
  *IEEE Robotics and Automation Letters* (**RAL**), 2021. [[paper]](https://arxiv.org/ftp/arxiv/papers/2212/2212.06393.pdf)
   
-*  M. Wei, D. Lee, V. Isler, and Daniel. D. Lee. \
-  Occupancy Map Inpainting for Online Robot Navigation. \
+*  M. Wei, D. Lee, V. Isler, and Daniel. D. Lee. Occupancy Map Inpainting for Online Robot Navigation. \
   *IEEE International Conference on Robotics and Automation* (**ICRA**), 2021.
   
-* Minghan Wei, Volkan Isler. \
-  Building Energy-Cost Map from Aerial Images and Ground Robot Measurements with Semi-supervised Deep Learning. \
+* Minghan Wei, Volkan Isler. Building Energy-Cost Map from Aerial Images and Ground Robot Measurements with Semi-supervised Deep Learning. \
   *IEEE International Conference on Robotics and Automation* (**ICRA**), 2020.  [[paper]](https://ieeexplore.ieee.org/ielaam/7083369/9133350/9131808-aam.pdf)
   
-* Minghan Wei, Volkan Isler. \
-  Energy-efficient Path Planning for Ground Robots by Combining Air and Ground Measurements. \
+* Minghan Wei, Volkan Isler. Energy-efficient Path Planning for Ground Robots by Combining Air and Ground Measurements. \
   *Conference on Robot Learning* (**CoRL**), 2019. [[paper]](http://proceedings.mlr.press/v100/wei20a/wei20a.pdf)
   
-* Minghan Wei, Volkan Isler. \
-  Air To Ground Collaboration for Energy-efficient Path Planning for Ground Robots. \
+* Minghan Wei, Volkan Isler. Air To Ground Collaboration for Energy-efficient Path Planning for Ground Robots. \
   *IEEE/RSJ International Conference on Intelligent Robots and Systems* (**IROS**), 2019. [[paper]](https://drive.google.com/file/d/1Os_V-1aHtg_qBcIv_03GkmYTlcMtLoSg/view)
 
-* Minghan Wei, Volkan Isler. \
-  A Log-Approximation for Coverage Path Planning with the Energy Constraint. \
+* Minghan Wei, Volkan Isler. A Log-Approximation for Coverage Path Planning with the Energy Constraint. \
   *International Conference on Automated Planning and Scheduling* (**ICAPS**), 2018. [[paper]](https://ojs.aaai.org/index.php/ICAPS/article/view/13929/13778)
 
-* Minghan Wei, Volkan Isler. \
-  Coverage Path Planning under the Energy Constraint. \
+* Minghan Wei, Volkan Isler. Coverage Path Planning under the Energy Constraint. \
   *International Conference on Robotics and Automation* (**ICRA**), 2018. [[paper]](https://conservancy.umn.edu/bitstream/handle/11299/216020/18-004.pdf;sequence=1)
 
 ## Patents 
