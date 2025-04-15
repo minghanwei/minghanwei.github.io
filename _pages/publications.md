@@ -6,7 +6,7 @@ permalink: /publications/
 
 ## Conference and Journal Publications
 * Cheng, Wen-Chung, Zhen Ni, Xiangnan Zhong, and Minghan Wei. "Autonomous Robot Goal Seeking and Collision Avoidance in the Physical World: An Automated Learning and Evaluation Framework Based on the PPO Method". \
-  *Applied Sciences 14, no. 23, 2024.
+  *Applied Sciences* 14, no. 23, 2024.
 
 * Cheng Peng, Minghan Wei, and Volkan Isler. "Stochastic Travelling Salesperson Problem with Neighborhoods for Object Detections". \
   *IEEE International Conference on Robotics and Automation* (**ICRA**), 2023.
