@@ -33,6 +33,10 @@ My research interests are in the general area of ***Robotics*** perception, mapp
 &emsp;&emsp;&thinsp; PhD, Computer Science, Aug 2016 - Jan 2022 \
 &emsp;&emsp;&thinsp; Minneapolis, MN, US
 
+<img src="/images/logos/ANU.png?raw=true" alt="Photo" style="width: 40px;"/> **Australian National University** \
+&emsp;&emsp;&thinsp; Exchange Student, July 2014 - December 2014 \
+&emsp;&emsp;&thinsp; Canberra, Australia
+
 <img src="/images/logos/NJUST.png?raw=true" alt="Photo" style="width: 40px;"/> **Nanjing University of Science and Technology** \
 &emsp;&emsp;&thinsp; B.E. in Computer Science and Technology, Sep 2012 - June 2016 \
 &emsp;&emsp;&thinsp; Nanjing, China
