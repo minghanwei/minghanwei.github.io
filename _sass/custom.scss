@@ -1,17 +1,17 @@
-// === Custom tweaks for author profile sidebar (left side) ===
+// === Custom tweaks for left-side author profile (Minimal Mistakes) ===
 
-// Widen the author profile section (left side)
-.author__sidebar {
-  max-width: 400px !important;
+// Widen the sidebar (left column with photo, bio, etc.)
+.sidebar {
   width: 400px !important;
+  max-width: 400px !important;
 }
 
-// Push main content to the right so it doesn't overlap
+// Push the main content to the right
 .page__content {
   margin-left: 420px !important;
 }
 
-// Optional: make bio text a bit smaller and more compact for long titles
+// Optional: make bio text a bit smaller for long lab names
 .author__bio {
   font-size: 0.95em;
   line-height: 1.4;
