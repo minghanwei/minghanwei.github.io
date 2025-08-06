@@ -84,10 +84,7 @@ analytics:
 author:
   name             : "Minghan Wei"
   avatar           : "headshot_wedding.png"
-  bio: |
-    Scalable Intelligence for Motion and Autonomy (SIMA) Lab
-    Department of Electrical Engineering and Computer Science
-    Florida Atlantic University
+  bio: "Scalable Intelligence for Motion and Autonomy (SIMA) Lab<br>Department of Electrical Engineering and Computer Science<br>Florida Atlantic University"
   googlescholar    : "https://scholar.google.com/citations?user=vJvfjQYAAAAJ&hl=en&oi=ao"
   email            : weim@fau.edu
  # researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
