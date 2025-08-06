@@ -1,14 +1,17 @@
-// === Properly widen sidebar in Minimal Mistakes ===
+// === Custom tweaks for author profile sidebar (left side) ===
 
-.sidebar__right {
-  width: 320px !important;  // Sidebar width
+// Widen the author profile section (left side)
+.author__sidebar {
+  max-width: 320px !important;
+  width: 320px !important;
 }
 
-.initial-content {
-  margin-right: 320px !important; // Shift main content accordingly
+// Push main content to the right so it doesn't overlap
+.page__content {
+  margin-left: 340px !important;
 }
 
-// Optional: reduce bio font size slightly for better fit
+// Optional: make bio text a bit smaller and more compact for long titles
 .author__bio {
   font-size: 0.95em;
   line-height: 1.4;
