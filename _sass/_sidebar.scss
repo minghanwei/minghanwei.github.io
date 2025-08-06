@@ -235,3 +235,13 @@
     }
   }
 }
+
+// Custom override: widen sidebar to fit long lab name
+.sidebar {
+  max-width: 300px;
+}
+
+.main {
+  margin-left: 320px;
+}
+
