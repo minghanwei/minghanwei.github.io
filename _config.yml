@@ -10,6 +10,7 @@ locale                   : "en-US"
 title                    : "Welcome to my homepage"
 title_separator          : "-"
 name                     : &name "Minghan Wei"
+lab_name: "Scalable Intelligence for Motion and Autonomy (SIMA) Lab"
 description              : &description "Minghan Wei's homepage"
 url                      : https://minghanwei.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 #url                      : https://faculty.eng.fau.edu/weim/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -83,7 +84,10 @@ analytics:
 author:
   name             : "Minghan Wei"
   avatar           : "headshot_wedding.png"
-  bio              : "Assistant Professor, Department of Electrical Engineering and Computer Science, Florida Atlantic University"
+  bio: |
+    Scalable Intelligence for Motion and Autonomy (SIMA) Lab
+    Department of Electrical Engineering and Computer Science
+    Florida Atlantic University
   googlescholar    : "https://scholar.google.com/citations?user=vJvfjQYAAAAJ&hl=en&oi=ao"
   email            : weim@fau.edu
  # researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
