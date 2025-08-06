@@ -1,0 +1,15 @@
+// === Properly widen sidebar in Minimal Mistakes ===
+
+.sidebar__right {
+  width: 320px !important;  // Sidebar width
+}
+
+.initial-content {
+  margin-right: 320px !important; // Shift main content accordingly
+}
+
+// Optional: reduce bio font size slightly for better fit
+.author__bio {
+  font-size: 0.95em;
+  line-height: 1.4;
+}

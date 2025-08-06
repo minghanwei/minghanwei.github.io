@@ -50,7 +50,6 @@
 }
 
 .sidebar__right {
-  width: 350px;
   margin-bottom: 1em;
 
   @include breakpoint($large) {
@@ -63,11 +62,6 @@
 
   @include breakpoint($x-large) {
     width: $right-sidebar-width;
-  }
-}
-@media (min-width: 64em) {
-  .initial-content {
-    margin-right: 350px;
   }
 }
 
@@ -240,14 +234,5 @@
       text-decoration: underline;
     }
   }
-}
-
-// Custom override: widen sidebar to fit long lab name
-.sidebar {
-  max-width: 350px;
-}
-
-.main {
-  margin-left: 370px;
 }
 
