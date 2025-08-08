@@ -33,9 +33,14 @@
   max-width: 260px !important;
 }
 
-.page__content {
-  margin-left: 270px !important;
-  padding-left: 0 !important;    /* remove inner padding if you want */
+.initial-content {
+  margin-left: 260px !important; /* match sidebar width */
 }
+
+.page__content {
+  margin-left: 0 !important; /* remove the extra shift inside */
+  padding-left: 0 !important; /* optional: remove inner padding */
+}
+
 
 .author__bio { font-size: 0.95em; line-height: 1.4; }
