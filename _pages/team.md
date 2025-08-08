@@ -10,7 +10,7 @@ classes: wide
   <div class="person">
     <img src="/images/minghan_phd_img.jpg" alt="Minghan Wei">
     <div class="person-name">Minghan Wei</div>
-    <div class="person-role">Assistant Professor, PI</div>
+    <div class="person-role">Assistant Professor in EECS Dep.</div>
     <div class="person-links">
       <a href="mailto:weim@fau.edu">Email</a> ·
       <!-- <a href="https://scholar.google.com/citations?user=vJvfjQYAAAAJ" target="_blank" rel="noopener">Google Scholar</a> -->
