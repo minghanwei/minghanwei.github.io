@@ -38,8 +38,14 @@
 }
 
 .page__content {
-  margin-left: 0 !important; /* remove the extra shift inside */
+  margin-left: 5 !important; /* remove the extra shift inside */
   padding-left: 0 !important; /* optional: remove inner padding */
+  padding-top: 10px !important; /* reduce top space */
+}
+
+/* Reduce top gap above titles */
+.page__title {
+  margin-top: 0 !important;
 }
 
 
