@@ -6,9 +6,9 @@ redirect_from:
   - /about.html
 ---
 
-<p align="center">
+<!-- <p align="center">
  <img src="/images/headshot_wedding.png?raw=true" alt="Photo" style="width: 200px;"/> 
-</p>
+</p> -->
 
 ## Short Biography
 
