@@ -1,4 +1,27 @@
-/* === Team page people cards === */
+/* === Sidebar width and content alignment === */
+.sidebar {
+  width: 260px !important;
+  max-width: 260px !important;
+}
+
+.page__content {
+  margin-left: 0 !important; /* no extra indent inside the main column */
+  padding-left: 0 !important;
+}
+
+/* === Remove large top gap on ALL pages (including homepage) === */
+#main,
+.page__inner-wrap,
+.page__inner-wrap > header,
+.page__content,
+.page__title,
+.masthead {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+  margin-bottom: 0 !important; /* remove masthead bottom gap */
+}
+
+/* === Team page people grid === */
 .people-grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
@@ -26,75 +49,3 @@
 .person-role { opacity: 0.8; margin-bottom: 6px; }
 .person-links a { font-size: 0.95rem; }
 .person-bio { margin-top: 8px; font-size: 0.95rem; line-height: 1.4; }
-
-/* === Left author panel width === */
-.sidebar {
-  width: 260px !important;
-  max-width: 260px !important;
-}
-
-.initial-content {
-  margin-left: 260px !important; /* match sidebar width */
-}
-
-.page__content {
-  margin-left: 5 !important; /* remove the extra shift inside */
-  padding-left: 0 !important; /* optional: remove inner padding */
-  padding-top: 10px !important; /* reduce top space */
-}
-
-/* Reduce top gap above titles */
-/* --- tighten top spacing --- */
-.masthead       { margin-bottom: 0 !important; }
-#main           { margin-top: 0 !important; padding-top: 0 !important; }
-.page__inner-wrap { padding-top: 0 !important; }
-.page__content  { padding-top: 0 !important; }
-.page__title    { margin-top: 0 !important; }
-
-
-.author__bio { font-size: 0.95em; line-height: 1.4; }
-
-/* Remove extra vertical space above main content */
-.layout--single #main {
-  margin-top: 0 !important;
-  padding-top: 0 !important;
-}
-
-.layout--single .page__inner-wrap {
-  padding-top: 0 !important;
-}
-
-.layout--single .page__inner-wrap > header {
-  margin-top: 0 !important;
-  padding-top: 0 !important;
-}
-
-.layout--single .page__title {
-  margin-top: 0 !important;
-}
-
-.masthead {
-  margin-bottom: 0 !important;
-}
-
-/* Remove top gap on homepage */
-.page__content {
-  padding-top: 0 !important;
-  margin-top: 0 !important;
-}
-
-#main {
-  margin-top: 0 !important;
-  padding-top: 0 !important;
-}
-
-.page__inner-wrap > header {
-  margin-top: 0 !important;
-  padding-top: 0 !important;
-}
-
-.masthead {
-  margin-bottom: 0 !important;
-}
-
-
