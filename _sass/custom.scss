@@ -77,3 +77,24 @@
   margin-bottom: 0 !important;
 }
 
+/* Remove top gap on homepage */
+.page__content {
+  padding-top: 0 !important;
+  margin-top: 0 !important;
+}
+
+#main {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+}
+
+.page__inner-wrap > header {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+}
+
+.masthead {
+  margin-bottom: 0 !important;
+}
+
+
