@@ -7,9 +7,15 @@
   position: relative !important;
 }
 
+/* Main content area should take the rest */
+#main {
+  display: flex !important;     /* ensure flex layout */
+}
+
 .page__content {
-  margin-left: 0 !important; /* no extra indent inside the main column */
-  padding-left: 0 !important;
+  flex: 1 1 auto !important;    /* grow to fill remaining space */
+  margin-left: 5 !important;    /* remove old push */
+  padding-left: 20px !important; /* small gap between sidebar & content */
 }
 
 .initial-content {
