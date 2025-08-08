@@ -2,11 +2,18 @@
 .sidebar {
   width: 260px !important;
   max-width: 260px !important;
+  float: left !important;      /* keep it beside content */
+  display: block !important;   /* not full-width inline flex */
+  position: relative !important;
 }
 
 .page__content {
   margin-left: 0 !important; /* no extra indent inside the main column */
   padding-left: 0 !important;
+}
+
+.initial-content {
+  display: block !important;
 }
 
 /* === Remove large top gap on ALL pages (including homepage) === */
@@ -19,6 +26,10 @@
   margin-top: 0 !important;
   padding-top: 0 !important;
   margin-bottom: 0 !important; /* remove masthead bottom gap */
+}
+
+#main {
+  margin-left: 280px !important; /* 260 + 20px gap */
 }
 
 /* === Team page people grid === */
