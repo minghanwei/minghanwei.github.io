@@ -28,6 +28,13 @@
 .person-bio { margin-top: 8px; font-size: 0.95rem; line-height: 1.4; }
 
 /* === Left author panel width === */
-.sidebar { width: 400px !important; max-width: 400px !important; }
-.page__content { margin-left: 420px !important; }
+.sidebar {
+  width: 260px !important;
+  max-width: 260px !important;
+}
+
+.page__content {
+  margin-left: 280px !important;
+}
+
 .author__bio { font-size: 0.95em; line-height: 1.4; }
