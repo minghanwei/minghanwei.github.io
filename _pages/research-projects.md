@@ -1,5 +1,8 @@
 ---
 permalink: /research-projects/
+layout: single
+author_profile: false
+classes: wide
 ---
 
 <p></p>
