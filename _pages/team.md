@@ -37,9 +37,7 @@ classes: wide
       Work in the lab since undergraduate.
     </p> -->
   </div>
-</div>
 
-<div class="people-grid">
   <!-- Example card — duplicate and edit for each student -->
   <div class="person">
     <img src="/images/default_headshot.jpg" alt="Jerry Gambrell">
@@ -53,9 +51,7 @@ classes: wide
       Work in the lab since undergraduate.
     </p> -->
   </div>
-</div>
 
-<div class="people-grid">
   <!-- Example card — duplicate and edit for each student -->
   <div class="person">
     <img src="/images/default_headshot.jpg" alt="Shuaib Olanrewaju">
@@ -69,9 +65,7 @@ classes: wide
       Work in the lab since undergraduate.
     </p> -->
   </div>
-</div>
 
-<div class="people-grid">
   <!-- Example card — duplicate and edit for each student -->
   <div class="person">
     <img src="/images/default_headshot.jpg" alt="Md. Tasin Tazwar">
