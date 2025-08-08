@@ -53,3 +53,27 @@
 
 
 .author__bio { font-size: 0.95em; line-height: 1.4; }
+
+/* Remove extra vertical space above main content */
+.layout--single #main {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+}
+
+.layout--single .page__inner-wrap {
+  padding-top: 0 !important;
+}
+
+.layout--single .page__inner-wrap > header {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+}
+
+.layout--single .page__title {
+  margin-top: 0 !important;
+}
+
+.masthead {
+  margin-bottom: 0 !important;
+}
+
