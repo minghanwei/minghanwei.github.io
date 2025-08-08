@@ -44,9 +44,12 @@
 }
 
 /* Reduce top gap above titles */
-.page__title {
-  margin-top: 0 !important;
-}
+/* --- tighten top spacing --- */
+.masthead       { margin-bottom: 0 !important; }
+#main           { margin-top: 0 !important; padding-top: 0 !important; }
+.page__inner-wrap { padding-top: 0 !important; }
+.page__content  { padding-top: 0 !important; }
+.page__title    { margin-top: 0 !important; }
 
 
 .author__bio { font-size: 0.95em; line-height: 1.4; }
