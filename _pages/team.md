@@ -21,9 +21,22 @@ classes: wide
 
 ## Students
 <div class="people-grid">
-  <!-- Example card — duplicate and edit for each student -->
   <div class="person">
-    <img src="/images/default_headshot.jpg" alt="Firstname Lastname">
+    <img src="/images/default_headshot.jpg" alt="Md. Tasin Tazwar">
+    <div class="person-name">Md. Tasin Tazwar</div>
+    <div class="person-role">Ph.D. in Computer Science</div>
+  </div>
+
+  <div class="person">
+    <img src="/images/default_headshot.jpg" alt="Tiying Gao">
+    <div class="person-name">Tiying Gao</div>
+    <div class="person-role">Professional Ph.D. in Computer Science</div>
+  </div>
+</div>
+
+<div class="people-grid">
+  <div class="person">
+    <img src="/images/default_headshot.jpg" alt="Dylan Shim">
     <div class="person-name">Dylan Shim</div>
     <div class="person-role">M.S. in Aritificial Intelligence</div>
     <!-- <p class="person-bio">
@@ -31,7 +44,6 @@ classes: wide
     </p> -->
   </div>
 
-  <!-- Example card — duplicate and edit for each student -->
   <div class="person">
     <img src="/images/default_headshot.jpg" alt="Jerry Gambrell">
     <div class="person-name">Jerry Gambrell</div>
@@ -40,8 +52,9 @@ classes: wide
       Work in the lab since undergraduate.
     </p> -->
   </div>
+</div>
 
-  <!-- Example card — duplicate and edit for each student -->
+<div class="people-grid">
   <div class="person">
     <img src="/images/default_headshot.jpg" alt="Shuaib Olanrewaju">
     <div class="person-name">Shuaib Olanrewaju</div>
@@ -51,13 +64,9 @@ classes: wide
     </p> -->
   </div>
 
-  <!-- Example card — duplicate and edit for each student -->
   <div class="person">
-    <img src="/images/default_headshot.jpg" alt="Md. Tasin Tazwar">
-    <div class="person-name">Md. Tasin Tazwar</div>
-    <div class="person-role">Incoming Ph.D.</div>
-    <!-- <p class="person-bio">
-      Work in the lab since undergraduate.
-    </p> -->
+    <img src="/images/default_headshot.jpg" alt="Nisa Albino">
+    <div class="person-name">Nisa Albino</div>
+    <div class="person-role">Undergraduate in Computer Science</div>
   </div>
 </div>
