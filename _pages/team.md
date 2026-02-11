@@ -14,8 +14,7 @@ classes: wide
     <div class="person-name">Minghan Wei</div>
     <div class="person-role">Assistant Professor in EECS Dep.</div>
     <div class="person-links">
-      <a href="mailto:weim@fau.edu">Email</a> ·
-      <!-- <a href="https://scholar.google.com/citations?user=vJvfjQYAAAAJ" target="_blank" rel="noopener">Google Scholar</a> -->
+      Email ·
     </div>
     <!-- <p class="person-bio">
       Lead of the Scalable Intelligence for Motion and Autonomy (SIMA) Lab. Research: field robotics, energy-aware planning, and foundation models for decision making.
@@ -31,8 +30,7 @@ classes: wide
     <div class="person-name">Dylan Shim</div>
     <div class="person-role">M.S. in Aritificial Intelligence</div>
     <div class="person-links">
-      <a href="dshim2019@fau.edu">Email</a> ·
-      <!-- <a href="https://github.com/username" target="_blank" rel="noopener">GitHub</a> -->
+      Email ·
     </div>
     <!-- <p class="person-bio">
       Work in the lab since undergraduate.
@@ -45,8 +43,7 @@ classes: wide
     <div class="person-name">Jerry Gambrell</div>
     <div class="person-role">M.S. in Aritificial Intelligence</div>
     <div class="person-links">
-      <a href="jgambrell2021@fau.edu">Email</a> ·
-      <!-- <a href="https://github.com/username" target="_blank" rel="noopener">GitHub</a> -->
+      Email ·
     </div>
     <!-- <p class="person-bio">
       Work in the lab since undergraduate.
@@ -59,8 +56,7 @@ classes: wide
     <div class="person-name">Shuaib Olanrewaju</div>
     <div class="person-role">Undergraduate RA</div>
     <div class="person-links">
-      <a href="solanrewaju2020@fau.edu">Email</a> ·
-      <!-- <a href="https://github.com/username" target="_blank" rel="noopener">GitHub</a> -->
+      Email ·
     </div>
     <!-- <p class="person-bio">
       Work in the lab since undergraduate.
@@ -73,8 +69,7 @@ classes: wide
     <div class="person-name">Md. Tasin Tazwar</div>
     <div class="person-role">Incoming Ph.D.</div>
     <div class="person-links">
-      <a href="mtazwar2023@fau.edu">Email</a> ·
-      <!-- <a href="https://github.com/username" target="_blank" rel="noopener">GitHub</a> -->
+      Email ·
     </div>
     <!-- <p class="person-bio">
       Work in the lab since undergraduate.
