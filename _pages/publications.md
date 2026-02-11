@@ -4,9 +4,12 @@ permalink: /publications/
 
 <p> </p>
 
-## Conference and Journal Publications
-* Cheng, Wen-Chung, Zhen Ni, Xiangnan Zhong, and Minghan Wei. "Autonomous Robot Goal Seeking and Collision Avoidance in the Physical World: An Automated Learning and Evaluation Framework Based on the PPO Method". \
+## Selected Conference and Journal Publications
+*  Wen-Chung Cheng, Zhen Ni, Xiangnan Zhong, and Minghan Wei. "Autonomous Robot Goal Seeking and Collision Avoidance in the Physical World: An Automated Learning and Evaluation Framework Based on the PPO Method". \
   *Applied Sciences* 14, no. 23, 2024.
+
+* Howlader Rakib, Weibo Liu, Ming Ye, Minghan Wei, Marjena Beantha Haque, and Xiaolang Zhang. "Systematic quantification of nearshore and offshore submarine groundwater discharge along Florida coasts". \
+*Journal of Geophysical Research*: Oceans 130, no. 7 (2025).
 
 * Cheng Peng, Minghan Wei, and Volkan Isler. "Stochastic Travelling Salesperson Problem with Neighborhoods for Object Detections". \
   *IEEE International Conference on Robotics and Automation* (**ICRA**), 2023.
