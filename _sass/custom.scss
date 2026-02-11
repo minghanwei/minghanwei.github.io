@@ -42,8 +42,9 @@
 .people-grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  grid-auto-rows: 1fr;
   gap: 18px;
-  align-items: start;
+  align-items: stretch;
 }
 
 .person {
@@ -51,6 +52,9 @@
   border-radius: 12px;
   padding: 14px;
   box-shadow: 0 1px 6px rgba(0,0,0,0.04);
+  display: flex;
+  flex-direction: column;
+  height: 100%;
 }
 
 .person img {
@@ -64,5 +68,13 @@
 
 .person-name { font-weight: 700; font-size: 1.05rem; }
 .person-role { opacity: 0.8; margin-bottom: 6px; }
+
+/* keep name and role on the same horizontal line when possible */
+.person-name,
+.person-role {
+  display: inline-block;
+  vertical-align: middle;
+}
+.person-name { margin-right: 8px; }
 .person-links a { font-size: 0.95rem; }
 .person-bio { margin-top: 8px; font-size: 0.95rem; line-height: 1.4; }
