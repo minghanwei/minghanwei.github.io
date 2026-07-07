@@ -15,7 +15,7 @@ classes: wide
 </figure>
 
 ## Principal Investigator
-<div class="people-grid">
+<div class="people-grid people-grid-pi">
   <div class="person">
     <img src="/images/minghan_phd_img.jpg" alt="Minghan Wei">
     <div class="person-name">Minghan Wei</div>
@@ -26,8 +26,8 @@ classes: wide
   </div>
 </div>
 
-## Students
-<div class="people-grid">
+## Student Researchers
+<div class="people-grid people-grid-students">
   <div class="person">
     <img src="/images/default_headshot.jpg" alt="Md. Tasin Tazwar">
     <div class="person-name">Md. Tasin Tazwar</div>
@@ -39,13 +39,11 @@ classes: wide
     <div class="person-name">Tiying Gao</div>
     <div class="person-role">Professional Ph.D. in Computer Science</div>
   </div>
-</div>
 
-<div class="people-grid">
   <div class="person">
     <img src="/images/default_headshot.jpg" alt="Dylan Shim">
     <div class="person-name">Dylan Shim</div>
-    <div class="person-role">M.S. in Aritificial Intelligence</div>
+    <div class="person-role">M.S. in Artificial Intelligence</div>
     <!-- <p class="person-bio">
       Work in the lab since undergraduate.
     </p> -->
@@ -54,14 +52,12 @@ classes: wide
   <div class="person">
     <img src="/images/default_headshot.jpg" alt="Jerry Gambrell">
     <div class="person-name">Jerry Gambrell</div>
-    <div class="person-role">M.S. in Aritificial Intelligence</div>
+    <div class="person-role">M.S. in Artificial Intelligence</div>
     <!-- <p class="person-bio">
       Work in the lab since undergraduate.
     </p> -->
   </div>
-</div>
 
-<div class="people-grid">
   <div class="person">
     <img src="/images/default_headshot.jpg" alt="Shuaib Olanrewaju">
     <div class="person-name">Shuaib Olanrewaju</div>
