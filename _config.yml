@@ -27,7 +27,7 @@ comments:
   disqus:
     shortname            :
   discourse:
-    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
+    server               : # https://meta.discourse.org/t/embedding-discourse-comments/31963 , e.g.: meta.discourse.org
   facebook:
     appid                :
     num_posts            : # 5 (default)
@@ -86,7 +86,7 @@ author:
   avatar           : "headshot_wedding.png"
   bio: "Scalable Intelligence for Motion and Autonomy (SIMA) Lab<br>Department of Electrical Engineering and Computer Science<br>Florida Atlantic University"
   googlescholar    : "https://scholar.google.com/citations?user=vJvfjQYAAAAJ&hl=en&oi=ao"
-  email            : weim@fau.edu
+  email            : minghanwei19@gmail.com
  # researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   # uri              :
   # bitbucket        :
