@@ -7,6 +7,13 @@ author_profile: false
 classes: wide
 ---
 
+## Lab Life
+
+<figure class="lab-photo">
+  <img src="/images/lab_lunch_spring_26.png" alt="SIMA Lab group lunch, Spring 2026">
+  <figcaption>SIMA Lab group lunch (Spring 2026).</figcaption>
+</figure>
+
 ## Principal Investigator
 <div class="people-grid">
   <div class="person">
