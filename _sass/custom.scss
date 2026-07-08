@@ -38,6 +38,21 @@
   margin-left: 280px !important; /* 260 + 20px gap */
 }
 
+/* === Publications page === */
+.publications-page .page__content h3 {
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: #555;
+  margin-top: 2rem;
+  margin-bottom: 0.75rem;
+  padding-bottom: 0.3rem;
+  border-bottom: 1px solid rgba(0,0,0,0.14);
+}
+
+.publications-page .page__content ul {
+  margin-top: 0.35rem;
+}
+
 /* === Team page people grid === */
 .people-grid {
   display: grid;
