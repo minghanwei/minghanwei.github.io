@@ -1,6 +1,7 @@
 ---
-permalink: /publications/ 
-classes: publications-page
+permalink: /publications/
+title: Publications
+layout: single
 ---
 
 ### 2026
