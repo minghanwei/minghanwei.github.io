@@ -50,18 +50,21 @@
   grid-template-columns: minmax(220px, 300px);
 }
 
-.people-grid-students {
+.people-grid-students,
+.people-grid-alumni {
   grid-template-columns: repeat(3, minmax(0, 1fr));
 }
 
 @media (max-width: 1000px) {
-  .people-grid-students {
+  .people-grid-students,
+  .people-grid-alumni {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 }
 
 @media (max-width: 640px) {
   .people-grid-students,
+  .people-grid-alumni,
   .people-grid-pi {
     grid-template-columns: 1fr;
   }
