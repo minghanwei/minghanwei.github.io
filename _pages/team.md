@@ -34,24 +34,6 @@ classes: wide
   </div>
 
   <div class="person">
-    <img src="/images/default_headshot.jpg" alt="Dylan Shim">
-    <div class="person-name">Dylan Shim</div>
-    <div class="person-role">M.S. in Artificial Intelligence</div>
-    <!-- <p class="person-bio">
-      Work in the lab since undergraduate.
-    </p> -->
-  </div>
-
-  <div class="person">
-    <img src="/images/default_headshot.jpg" alt="Jerry Gambrell">
-    <div class="person-name">Jerry Gambrell</div>
-    <div class="person-role">M.S. in Artificial Intelligence</div>
-    <!-- <p class="person-bio">
-      Work in the lab since undergraduate.
-    </p> -->
-  </div>
-
-  <div class="person">
     <img src="/images/default_headshot.jpg" alt="Shuaib Olanrewaju">
     <div class="person-name">Shuaib Olanrewaju</div>
     <div class="person-role">Undergraduate RA</div>
@@ -64,6 +46,30 @@ classes: wide
     <img src="/images/default_headshot.jpg" alt="Nisa Albino">
     <div class="person-name">Nisa Albino</div>
     <div class="person-role">Undergraduate in Computer Science</div>
+  </div>
+
+  <div class="person">
+    <img src="/images/anik.png" alt="Anik Sahai">
+    <div class="person-name">Anik Sahai</div>
+    <div class="person-role">Undergraduate Researcher</div>
+    <div class="person-links"><a href="https://www.linkedin.com/in/aniksahai/" target="_blank" rel="noopener noreferrer">LinkedIn</a></div>
+  </div>
+</div>
+
+## Alumni
+<div class="people-grid people-grid-alumni">
+  <div class="person">
+    <img src="/images/default_headshot.jpg" alt="Dylan Shim">
+    <div class="person-name">Dylan Shim</div>
+    <div class="person-role">M.S. in Artificial Intelligence</div>
+    <div class="person-links"><a href="https://www.linkedin.com/in/dylan-shim-400b31323/" target="_blank" rel="noopener noreferrer">LinkedIn</a></div>
+  </div>
+
+  <div class="person">
+    <img src="/images/default_headshot.jpg" alt="Jerry Gambrell">
+    <div class="person-name">Jerry Gambrell</div>
+    <div class="person-role">M.S. in Artificial Intelligence</div>
+    <div class="person-links"><a href="https://www.linkedin.com/in/jerry-gambrell/" target="_blank" rel="noopener noreferrer">LinkedIn</a></div>
   </div>
 </div>
 
