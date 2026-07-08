@@ -20,7 +20,7 @@ My research aims to enable autonomous robots to operate reliably in large-scale,
 To achieve this goal, my research spans robotic perception, mapping, planning, machine learning, and foundation models, with applications in field robotics, environmental monitoring, intelligent manipulation, and multi-robot systems. I enjoy combining principled algorithm design with real robotic systems to develop solutions that are both theoretically grounded and practically deployable.
 
 ## <img src="/images/logos/celebrate.png?raw=true" alt="Photo" style="width: 60px;"/> News
-* **June, 2026**: Our work *"Unblocking the Path: VLM-Assisted Robot Navigation in Indoor Environments"* was presented at the 1st CVPR Workshop on Deployment of Foundation Models for Embodied AI.
+* **June, 2026**: Our work *"Unblocking the Path: VLM-Assisted Robot Navigation in Indoor Environments"* was presented at the CVPR Workshop on Deployment of Foundation Models for Embodied AI.
 * **June, 2025**: Excited to share that our NSF [proposal](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2452203&HistoricalAwards=false) *"CRII: FRR: Towards Energy-optimal Multi-Robot Navigation for Time-critical Field Tasks"* has been awarded!
 * **June, 2023**: I will be joining Florida Atlantic University on August 7, 2023 as an assistant professor to pursue my robotics research.
 * **June, 2022**: I have joined Google as a Software Engineer in the Augmented Reality - Motion tracking team.
