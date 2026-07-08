@@ -101,12 +101,12 @@
 
 /* === Team page lab photo === */
 .lab-photo {
-  margin: 1rem 0 1.75rem;
+  margin: 1rem auto 1.75rem;
+  max-width: 600px;
 }
 
 .lab-photo img {
   width: 100%;
-  max-width: 720px;
   display: block;
   margin: 0 auto;
   border-radius: 12px;
