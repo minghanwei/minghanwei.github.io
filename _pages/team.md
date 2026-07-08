@@ -7,13 +7,6 @@ author_profile: false
 classes: wide
 ---
 
-## Lab Life
-
-<figure class="lab-photo">
-  <img src="/images/lab_lunch_spring_26.png" alt="SIMA Lab group lunch, Spring 2026">
-  <figcaption>SIMA Lab group lunch (Spring 2026).</figcaption>
-</figure>
-
 ## Principal Investigator
 <div class="people-grid people-grid-pi">
   <div class="person">
@@ -73,3 +66,10 @@ classes: wide
     <div class="person-role">Undergraduate in Computer Science</div>
   </div>
 </div>
+
+## Lab Life
+
+<figure class="lab-photo">
+  <img src="/images/lab_lunch_spring_26.png" alt="SIMA Lab members at a Spring 2026 group lunch">
+  <figcaption>SIMA Lab members at our Spring 2026 group lunch.</figcaption>
+</figure>
