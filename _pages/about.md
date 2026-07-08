@@ -11,15 +11,13 @@ layout: single
  <img src="/images/headshot_wedding.png?raw=true" alt="Photo" style="width: 200px;"/> 
 </p> -->
 
-## Short Biography
+## About Me
 
-Hello, I am Minghan Wei, an assistant professor in EECS department at FAU. I received my Ph.D. degree in Jan, 2022 from the Department of Computer Science and Engineering, University of Minnesota, under the supervision of [Prof. Volkan Isler](https://www-users.cse.umn.edu/~isler/).
+Hello! I am Minghan Wei, an Assistant Professor in the Department of Electrical Engineering and Computer Science at Florida Atlantic University. I received my Ph.D. in Computer Science from the University of Minnesota in 2022, where I was fortunate to be advised by [Prof. Volkan Isler](https://www-users.cse.umn.edu/~isler/). Before joining FAU, I worked as a robotics engineer at Google and iRobot.
 
-My research interests are in the general area of ***Robotics*** perception, mapping, planning, and control for practical indoor and field applications such as precision agriculture and environmental monitoring.
-* One focus of my research is to study how to improve the energy efficiency of robots in these applications.
-* I study how to apply learning-based methods to predict energy-cost maps so that energy-optimal paths can be planned.
-* I study and design energy-aware path planning algorithms to minimize total energy consumption.
-* I also implement practical robotic systems, e.g. autonomous robot mowers, for these applications.
+My research aims to enable autonomous robots to operate reliably in large-scale, complex, and previously unseen environments. I am interested in how robots can efficiently perceive their surroundings, reason about uncertainty and resource limitations, and make long-horizon decisions under real-world constraints.
+
+To achieve this goal, my research spans robotic perception, mapping, planning, machine learning, and foundation models, with applications in field robotics, environmental monitoring, intelligent manipulation, and multi-robot systems. I enjoy combining principled algorithm design with real robotic systems to develop solutions that are both theoretically grounded and practically deployable.
 
 ## <img src="/images/logos/celebrate.png?raw=true" alt="Photo" style="width: 60px;"/> News
 * **June, 2025**: Excited to share that our NSF [proposal](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2452203&HistoricalAwards=false) *"CRII: FRR: Towards Energy-optimal Multi-Robot Navigation for Time-critical Field Tasks"* has been awarded!
