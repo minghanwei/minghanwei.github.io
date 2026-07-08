@@ -7,79 +7,19 @@ redirect_from:
 layout: single
 ---
 
-<div class="home-hero">
-  <div class="home-kicker">Scalable Intelligence for Motion and Autonomy (SIMA) Lab</div>
-  <h1>Minghan Wei</h1>
-  <p class="home-subtitle">Assistant Professor, Department of Electrical Engineering and Computer Science, Florida Atlantic University</p>
-  <p class="home-mission">I develop autonomous robotic systems that perceive, reason, and make long-horizon decisions in complex real-world environments.</p>
-  <div class="home-actions">
-    <a href="/research-projects/">Research Projects</a>
-    <a href="/publications/">Publications</a>
-    <a href="/team/">Team</a>
-  </div>
-</div>
-
-## Research Highlights
-
-<div class="research-highlight-grid">
-  <div class="research-card">
-    <svg viewBox="0 0 120 70" aria-hidden="true">
-      <path d="M16 50 C35 18, 62 60, 102 22" />
-      <circle cx="16" cy="50" r="5" />
-      <circle cx="102" cy="22" r="5" />
-      <rect x="47" y="37" width="16" height="10" rx="2" />
-      <path d="M47 42 L34 50 M63 42 L78 35" />
-    </svg>
-    <h3>Long-Horizon Robot Autonomy</h3>
-    <p>Planning and decision making under uncertainty, resource limits, and mission constraints.</p>
-  </div>
-
-  <div class="research-card">
-    <svg viewBox="0 0 120 70" aria-hidden="true">
-      <path d="M12 52 H108" />
-      <path d="M24 52 C30 38, 38 38, 44 52" />
-      <path d="M54 52 C60 34, 70 34, 76 52" />
-      <path d="M86 52 C91 41, 98 41, 104 52" />
-      <path d="M30 22 L44 30 L30 38 L16 30 Z" />
-      <path d="M30 22 V14 M30 38 V46 M16 30 H8 M44 30 H52" />
-    </svg>
-    <h3>Field Robotics</h3>
-    <p>Robotic perception and planning for agriculture, aquaculture, and environmental monitoring.</p>
-  </div>
-
-  <div class="research-card">
-    <svg viewBox="0 0 120 70" aria-hidden="true">
-      <rect x="15" y="18" width="25" height="18" rx="3" />
-      <circle cx="27" cy="27" r="5" />
-      <path d="M40 27 H58" />
-      <rect x="58" y="14" width="28" height="26" rx="4" />
-      <path d="M65 24 H79 M65 31 H75" />
-      <path d="M86 27 H101" />
-      <path d="M101 27 C108 27, 108 38, 100 40" />
-      <path d="M100 40 L88 48" />
-    </svg>
-    <h3>Foundation Models for Robotics</h3>
-    <p>Vision-language and robot-learning methods for navigation, interaction, and manipulation.</p>
-  </div>
-
-  <div class="research-card">
-    <svg viewBox="0 0 120 70" aria-hidden="true">
-      <circle cx="30" cy="30" r="8" />
-      <circle cx="75" cy="22" r="8" />
-      <circle cx="88" cy="52" r="8" />
-      <path d="M38 29 L67 23 M80 30 L86 44 M38 34 L80 50" />
-      <path d="M22 46 H38 M67 40 H83" />
-    </svg>
-    <h3>Multi-Robot Systems</h3>
-    <p>Coordination, collaboration, and resource-aware planning for heterogeneous robot teams.</p>
-  </div>
-</div>
+<!-- <p align="center">
+ <img src="/images/headshot_wedding.png?raw=true" alt="Photo" style="width: 200px;"/> 
+</p> -->
 
 ## Short Biography
 
-Hello, I am Minghan Wei, an assistant professor in the Department of Electrical Engineering and Computer Science at Florida Atlantic University. I received my Ph.D. degree in January 2022 from the Department of Computer Science and Engineering at the University of Minnesota, under the supervision of [Prof. Volkan Isler](https://www-users.cse.umn.edu/~isler/).
+Hello, I am Minghan Wei, an assistant professor in EECS department at FAU. I received my Ph.D. degree in Jan, 2022 from the Department of Computer Science and Engineering, University of Minnesota, under the supervision of [Prof. Volkan Isler](https://www-users.cse.umn.edu/~isler/).
 
-My research interests are in the general area of ***Robotics***, with an emphasis on perception, mapping, planning, learning, and control for practical indoor and field applications such as precision agriculture, aquaculture, environmental monitoring, and service robotics. A central theme of my research is to enable robots to make reliable long-horizon decisions under real-world constraints such as uncertainty, energy, time, safety, and collaboration.
+My research interests are in the general area of ***Robotics*** perception, mapping, planning, and control for practical indoor and field applications such as precision agriculture and environmental monitoring.
+* One focus of my research is to study how to improve the energy efficiency of robots in these applications.
+* I study how to apply learning-based methods to predict energy-cost maps so that energy-optimal paths can be planned.
+* I study and design energy-aware path planning algorithms to minimize total energy consumption.
+* I also implement practical robotic systems, e.g. autonomous robot mowers, for these applications.
 
 ## <img src="/images/logos/celebrate.png?raw=true" alt="Photo" style="width: 60px;"/> News
 * **June, 2025**: Excited to share that our NSF [proposal](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2452203&HistoricalAwards=false) *"CRII: FRR: Towards Energy-optimal Multi-Robot Navigation for Time-critical Field Tasks"* has been awarded!
