@@ -1,21 +1,87 @@
-/* === Sidebar width and content alignment === */
-.sidebar {
-  width: 260px !important;
-  max-width: 260px !important;
-  float: left !important;      /* keep it beside content */
-  display: block !important;   /* not full-width inline flex */
-  position: relative !important;
+/* === Responsive content width and optional profile sidebar === */
+#main {
+  display: block;
+  width: 100%;
+  max-width: 1400px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 16px;
+  padding-right: 16px;
 }
 
-/* Main content area should take the rest */
-#main {
-  display: flex !important;     /* ensure flex layout */
+/* Remove the theme's reserved columns on pages without a sidebar. */
+#main > .page,
+#main > .archive {
+  float: none;
+  width: 100%;
+  min-width: 0;
+  margin-left: 0;
+  margin-right: 0;
+  padding-left: 0;
+  padding-right: 0;
+}
+
+#main > .sidebar {
+  float: none;
+  display: block;
+  position: relative;
+  width: 100%;
+  max-width: none;
+  margin-right: 0;
+  padding-right: 0;
 }
 
 .page__content {
-  flex: 1 1 auto !important;    /* grow to fill remaining space */
-  margin-left: 5 !important;    /* remove old push */
-  padding-left: 15px !important; /* small gap between sidebar & content */
+  margin-left: 0;
+  padding-left: 0;
+}
+
+.masthead__inner-wrap {
+  width: 100%;
+  max-width: 1400px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 16px;
+  padding-right: 16px;
+}
+
+/* Match the theme's desktop sidebar breakpoint (925px). */
+@media (min-width: 57.8125em) {
+  #main {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    column-gap: 32px;
+  }
+
+  /* Float clearfix pseudo-elements must not become extra flex columns. */
+  #main::before,
+  #main::after {
+    display: none;
+  }
+
+  #main,
+  .masthead__inner-wrap {
+    padding-left: 24px;
+    padding-right: 24px;
+  }
+
+  #main > .sidebar {
+    flex: 0 0 260px;
+    width: 260px;
+    max-width: 260px;
+  }
+
+  #main > .page,
+  #main > .archive {
+    flex: 1 1 0;
+    width: auto;
+  }
+
+  #main > .page__related {
+    flex: 0 0 100%;
+    margin-left: 0;
+  }
 }
 
 .initial-content {
@@ -32,10 +98,6 @@
   margin-top: 0 !important;
   padding-top: 0 !important;
   margin-bottom: 0 !important; /* remove masthead bottom gap */
-}
-
-#main {
-  margin-left: 280px !important; /* 260 + 20px gap */
 }
 
 /* === Publications page === */
