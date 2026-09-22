@@ -27,6 +27,16 @@ To address the challenges posed by large-scale operations including spatial comp
 <p style="font-size: 90%; font-style: italic; text-align: center; margin-top: -10px;">
   This research was mainly supported by the <a href="https://hboifoundation.org/HBOI-24-AReport/" target="_blank">Harbor Branch Oceanographic Institute Foundation</a> at FAU as an SLP project.
 </p>
+
+### Natural-Language Constraint-Aware Path Planning with Large Language Models
+Real-world routing tasks often involve customized constraints that are difficult to handle with a single predefined planning formulation. We develop an LLM-based approach that interprets natural-language planning requests, converts them into structured problem formulations, and uses verification and iterative refinement to generate feasible, improved routes.
+
+Across the tested constrained-routing problems, verification increased the valid-solution rate from 85.63% to 95.38%, while iterative refinement reduced route cost in 64% of the tested cases.
+
+<div style="display: flex; justify-content: center; margin-top: 12px; margin-bottom: 25px;">
+  <img src="/images/llm-path-planning-pipeline.svg" alt="Pipeline for natural-language constraint-aware path planning with large language models" style="width: 100%; max-width: 900px; height: auto;">
+</div>
+
 ---
 
 ## Projects During Ph.D. at University of Minnesota - Twin Cities
