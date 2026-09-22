@@ -11,7 +11,7 @@ classes: wide
 
 ---
 
-## Projects at Florida Atlantic University
+## Selected Projects at Florida Atlantic University
 
 <!-- Example Placeholder -->
 ### Autonomous Robotic Systems for Macroalgae Harvesting in Tank Aquaculture
