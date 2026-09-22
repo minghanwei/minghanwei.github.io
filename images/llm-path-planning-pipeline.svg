@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 430" role="img" aria-labelledby="title desc">
+<title id="title">Natural-language constrained path-planning pipeline</title>
+<desc id="desc">Two-pathway LLM pipeline. Natural-language requirements are matched to a structured problem formulation library when possible; otherwise the LLM generates a formulation. Candidate routes are verified, iteratively improved, and the best route is selected.</desc>
+<defs>
+  <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
+    <path d="M0,0 L0,6 L9,3 z" fill="#2b6f95"/>
+  </marker>
+  <style>
+    .box{fill:#eef1f3;stroke:#2c3e50;stroke-width:2}
+    .decision{fill:#f7f7f7;stroke:#2c3e50;stroke-width:2}
+    .line{fill:none;stroke:#2b6f95;stroke-width:3;marker-end:url(#arrow)}
+    .dash{fill:none;stroke:#2b6f95;stroke-width:3;stroke-dasharray:9 8;marker-end:url(#arrow)}
+    .label{font:600 17px Arial,Helvetica,sans-serif;fill:#1d1d1d;text-anchor:middle}
+    .small{font:600 15px Arial,Helvetica,sans-serif;fill:#1d1d1d;text-anchor:middle}
+    .note{font:15px Arial,Helvetica,sans-serif;fill:#333;text-anchor:middle}
+  </style>
+</defs>
+
+<rect class="box" x="20" y="165" width="125" height="62" rx="3"/>
+<text class="label" x="82" y="190"><tspan x="82">Requirements</tspan><tspan x="82" dy="21">in plain text</tspan></text>
+
+<rect class="box" x="185" y="145" width="165" height="102" rx="3"/>
+<text class="label" x="267" y="174"><tspan x="267">LLM: structured</tspan><tspan x="267" dy="21">problem formulation</tspan><tspan x="267" dy="21">(SPF) search</tspan></text>
+
+<path class="line" d="M145 196 H185"/>
+
+<text class="note" x="420" y="70">Matched with a case in the library</text>
+<path class="line" d="M350 174 H450 V110 H515"/>
+
+<rect class="box" x="515" y="75" width="185" height="72" rx="3"/>
+<text class="label" x="607" y="102"><tspan x="607">LLM: solution generation</tspan><tspan x="607" dy="21">(SPF as prompts)</tspan></text>
+
+<rect class="box" x="745" y="82" width="150" height="58" rx="3"/>
+<text class="label" x="820" y="106"><tspan x="820">Constraint</tspan><tspan x="820" dy="21">verification</tspan></text>
+
+<polygon class="decision" points="960,82 1050,111 960,140 870,111"/>
+<text class="label" x="960" y="117">Violations?</text>
+
+<path class="line" d="M700 111 H745"/>
+<path class="line" d="M895 111 H870"/>
+<text class="small" x="1058" y="91">No</text>
+
+<rect class="box" x="975" y="180" width="145" height="62" rx="3"/>
+<text class="label" x="1047" y="205"><tspan x="1047">Iterative</tspan><tspan x="1047" dy="21">improvement</tspan></text>
+<path class="line" d="M1050 111 H1080 V180"/>
+
+<path class="dash" d="M960 140 V164 H607 V147"/>
+<text class="small" x="783" y="158">Yes: prompt on violated constraints</text>
+
+<text class="note" x="430" y="305">New problem formulation needed</text>
+<path class="line" d="M350 219 H420 V330 H500"/>
+
+<rect class="box" x="500" y="298" width="145" height="62" rx="3"/>
+<text class="label" x="572" y="323"><tspan x="572">LLM: SPF</tspan><tspan x="572" dy="21">generation</tspan></text>
+
+<rect class="box" x="690" y="292" width="180" height="74" rx="3"/>
+<text class="label" x="780" y="319"><tspan x="780">LLM: solution generation</tspan><tspan x="780" dy="21">(SPF as prompts)</tspan></text>
+
+<rect class="box" x="915" y="292" width="150" height="74" rx="3"/>
+<text class="label" x="990" y="318"><tspan x="990">LLM: prompts for</tspan><tspan x="990" dy="21">self-verification</tspan></text>
+
+<path class="line" d="M645 329 H690"/>
+<path class="line" d="M870 329 H915"/>
+<path class="line" d="M1065 329 H1100 V242"/>
+<text class="small" x="1085" y="314">No violations</text>
+<path class="dash" d="M990 366 V400 H780 V366"/>
+<text class="small" x="885" y="420">Violations: self-generated correction prompts</text>
+
+<rect class="box" x="1135" y="180" width="55" height="62" rx="3"/>
+<text class="small" x="1162" y="204"><tspan x="1162">Best</tspan><tspan x="1162" dy="19">route</tspan></text>
+<path class="line" d="M1120 211 H1135"/>
+</svg>
