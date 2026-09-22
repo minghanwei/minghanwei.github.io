@@ -19,9 +19,14 @@ Macroalgae harvesting plays a critical role in the integrated multi-trophic aqua
 
 To address the challenges posed by large-scale operations including spatial complexity, repetitive motion, and time sensitivity, we are exploring autonomous robotic solutions that can perform harvesting tasks with high reliability and precision. Below is an early-result demonstration that mimics harvesting motion in aquaculture tanks, implemented by an undergraduate researcher Shuaib Olanrewaju from our lab. Our ongoing efforts are focused on expanding this capability to mobile ground robots for large-scale field deployment.
 
-<div style="margin-top: 10px; margin-bottom: 20px;">
-  <video controls style="display: block; margin: 0 auto; width: 100%; max-width: 640px;">
+<div class="project-videos">
+  <video controls playsinline preload="metadata" aria-label="Early macroalgae harvesting motion demonstration">
     <source src="/files/aqu_harvest.mp4" type="video/mp4">
+    <a href="/files/aqu_harvest.mp4">Download the harvesting motion demonstration.</a>
+  </video>
+  <video controls playsinline preload="metadata" aria-label="Autonomous macroalgae harvesting demonstration">
+    <source src="/files/macroalgae-harvesting-demo.mp4" type="video/mp4">
+    <a href="/files/macroalgae-harvesting-demo.mp4">Download the autonomous harvesting demonstration.</a>
   </video>
 </div>
 <p style="font-size: 90%; font-style: italic; text-align: center; margin-top: -10px;">

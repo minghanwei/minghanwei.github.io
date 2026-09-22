@@ -100,6 +100,35 @@
   margin-bottom: 0 !important; /* remove masthead bottom gap */
 }
 
+/* === Paired project videos === */
+.project-videos {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 20px;
+  width: 100%;
+  margin: 10px 0 20px;
+}
+
+.project-videos > video {
+  display: block;
+  width: 100%;
+  min-width: 0;
+  max-width: 100%;
+  height: auto;
+  aspect-ratio: 16 / 9;
+  object-fit: contain;
+  background: #000;
+}
+
+@media (max-width: 767px) {
+  .project-videos {
+    grid-template-columns: minmax(0, 1fr);
+    max-width: 640px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
 /* === Publications page === */
 .publications-page .page__content h3 {
   font-size: 1.25rem;
