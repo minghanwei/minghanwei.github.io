@@ -1,72 +1,86 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 430" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1450 560" role="img" aria-labelledby="title desc">
 <title id="title">Natural-language constrained path-planning pipeline</title>
-<desc id="desc">Two-pathway LLM pipeline. Natural-language requirements are matched to a structured problem formulation library when possible; otherwise the LLM generates a formulation. Candidate routes are verified, iteratively improved, and the best route is selected.</desc>
+<desc id="desc">Two-pathway LLM pipeline for constrained route planning from natural language. Known problems use a stored structured problem formulation, while unseen problems generate one. Both pathways verify constraints, correct violations, iteratively improve valid routes, and select the best route.</desc>
 <defs>
   <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
-    <path d="M0,0 L0,6 L9,3 z" fill="#2b6f95"/>
+    <path d="M0,0 L0,6 L9,3 z" fill="#3b6f99"/>
   </marker>
   <style>
-    .box{fill:#eef1f3;stroke:#2c3e50;stroke-width:2}
-    .decision{fill:#f7f7f7;stroke:#2c3e50;stroke-width:2}
-    .line{fill:none;stroke:#2b6f95;stroke-width:3;marker-end:url(#arrow)}
-    .dash{fill:none;stroke:#2b6f95;stroke-width:3;stroke-dasharray:9 8;marker-end:url(#arrow)}
-    .label{font:600 17px Arial,Helvetica,sans-serif;fill:#1d1d1d;text-anchor:middle}
-    .small{font:600 15px Arial,Helvetica,sans-serif;fill:#1d1d1d;text-anchor:middle}
-    .note{font:15px Arial,Helvetica,sans-serif;fill:#333;text-anchor:middle}
+    .box{fill:#eef1f4;stroke:#2f4054;stroke-width:2.2}
+    .decision{fill:#ffffff;stroke:#2f4054;stroke-width:2.2}
+    .line{fill:none;stroke:#3b6f99;stroke-width:3.2;marker-end:url(#arrow)}
+    .loop{fill:none;stroke:#3b6f99;stroke-width:3.0;stroke-dasharray:9 8;marker-end:url(#arrow)}
+    .label{font:600 18px Arial,Helvetica,sans-serif;fill:#222;text-anchor:middle}
+    .small{font:600 15px Arial,Helvetica,sans-serif;fill:#222;text-anchor:middle}
+    .note{font:16px Arial,Helvetica,sans-serif;fill:#444;text-anchor:middle}
+    .pathnote{font:600 15px Arial,Helvetica,sans-serif;fill:#334;text-anchor:middle}
   </style>
 </defs>
 
-<rect class="box" x="20" y="165" width="125" height="62" rx="3"/>
-<text class="label" x="82" y="190"><tspan x="82">Requirements</tspan><tspan x="82" dy="21">in plain text</tspan></text>
+<!-- Input and SPF search -->
+<rect class="box" x="25" y="245" width="145" height="72" rx="4"/>
+<text class="label" x="97.5" y="272"><tspan x="97.5">Requirements</tspan><tspan x="97.5" dy="23">in plain text</tspan></text>
 
-<rect class="box" x="185" y="145" width="165" height="102" rx="3"/>
-<text class="label" x="267" y="174"><tspan x="267">LLM: structured</tspan><tspan x="267" dy="21">problem formulation</tspan><tspan x="267" dy="21">(SPF) search</tspan></text>
+<rect class="box" x="220" y="225" width="210" height="112" rx="4"/>
+<text class="label" x="325" y="257"><tspan x="325">LLM: structured</tspan><tspan x="325" dy="23">problem formulation</tspan><tspan x="325" dy="23">(SPF) search</tspan></text>
+<path class="line" d="M170 281 H220"/>
 
-<path class="line" d="M145 196 H185"/>
+<!-- Upper pathway: matched case -->
+<text class="note" x="560" y="42">Matched with a case in the library</text>
+<path class="line" d="M430 250 H470 V105 H535"/>
 
-<text class="note" x="420" y="70">Matched with a case in the library</text>
-<path class="line" d="M350 174 H450 V110 H515"/>
+<rect class="box" x="535" y="68" width="220" height="78" rx="4"/>
+<text class="label" x="645" y="97"><tspan x="645">LLM: solution generation</tspan><tspan x="645" dy="23">(SPF as prompts)</tspan></text>
 
-<rect class="box" x="515" y="75" width="185" height="72" rx="3"/>
-<text class="label" x="607" y="102"><tspan x="607">LLM: solution generation</tspan><tspan x="607" dy="21">(SPF as prompts)</tspan></text>
+<rect class="box" x="810" y="78" width="170" height="58" rx="4"/>
+<text class="label" x="895" y="102"><tspan x="895">Constraint</tspan><tspan x="895" dy="22">verification</tspan></text>
 
-<rect class="box" x="745" y="82" width="150" height="58" rx="3"/>
-<text class="label" x="820" y="106"><tspan x="820">Constraint</tspan><tspan x="820" dy="21">verification</tspan></text>
+<polygon class="decision" points="1060,76 1140,107 1060,138 980,107"/>
+<text class="label" x="1060" y="113">Violations?</text>
 
-<polygon class="decision" points="960,82 1050,111 960,140 870,111"/>
-<text class="label" x="960" y="117">Violations?</text>
+<path class="line" d="M755 107 H810"/>
 
-<path class="line" d="M700 111 H745"/>
-<path class="line" d="M895 111 H870"/>
-<text class="small" x="1058" y="91">No</text>
+<!-- Upper violation loop -->
+<path class="loop" d="M1060 138 V174 H645 V146"/>
+<text class="pathnote" x="850" y="169">Yes — revise using violated constraints</text>
 
-<rect class="box" x="975" y="180" width="145" height="62" rx="3"/>
-<text class="label" x="1047" y="205"><tspan x="1047">Iterative</tspan><tspan x="1047" dy="21">improvement</tspan></text>
-<path class="line" d="M1050 111 H1080 V180"/>
+<!-- Merge into iterative improvement -->
+<rect class="box" x="1155" y="233" width="175" height="76" rx="4"/>
+<text class="label" x="1242.5" y="262"><tspan x="1242.5">Iterative</tspan><tspan x="1242.5" dy="23">improvement</tspan></text>
 
-<path class="dash" d="M960 140 V164 H607 V147"/>
-<text class="small" x="783" y="158">Yes: prompt on violated constraints</text>
+<path class="line" d="M1140 107 H1242 V233"/>
+<text class="small" x="1185" y="92">No</text>
 
-<text class="note" x="430" y="305">New problem formulation needed</text>
-<path class="line" d="M350 219 H420 V330 H500"/>
+<!-- Lower pathway: new formulation -->
+<text class="note" x="560" y="390">New problem formulation needed</text>
+<path class="line" d="M430 310 H470 V430 H535"/>
 
-<rect class="box" x="500" y="298" width="145" height="62" rx="3"/>
-<text class="label" x="572" y="323"><tspan x="572">LLM: SPF</tspan><tspan x="572" dy="21">generation</tspan></text>
+<rect class="box" x="535" y="395" width="165" height="70" rx="4"/>
+<text class="label" x="617.5" y="423"><tspan x="617.5">LLM: SPF</tspan><tspan x="617.5" dy="23">generation</tspan></text>
 
-<rect class="box" x="690" y="292" width="180" height="74" rx="3"/>
-<text class="label" x="780" y="319"><tspan x="780">LLM: solution generation</tspan><tspan x="780" dy="21">(SPF as prompts)</tspan></text>
+<rect class="box" x="750" y="390" width="220" height="80" rx="4"/>
+<text class="label" x="860" y="420"><tspan x="860">LLM: solution generation</tspan><tspan x="860" dy="23">(SPF as prompts)</tspan></text>
 
-<rect class="box" x="915" y="292" width="150" height="74" rx="3"/>
-<text class="label" x="990" y="318"><tspan x="990">LLM: prompts for</tspan><tspan x="990" dy="21">self-verification</tspan></text>
+<rect class="box" x="1020" y="390" width="190" height="80" rx="4"/>
+<text class="label" x="1115" y="420"><tspan x="1115">LLM: prompts for</tspan><tspan x="1115" dy="23">self-verification</tspan></text>
 
-<path class="line" d="M645 329 H690"/>
-<path class="line" d="M870 329 H915"/>
-<path class="line" d="M1065 329 H1100 V242"/>
-<text class="small" x="1085" y="314">No violations</text>
-<path class="dash" d="M990 366 V400 H780 V366"/>
-<text class="small" x="885" y="420">Violations: self-generated correction prompts</text>
+<polygon class="decision" points="1275,392 1350,430 1275,468 1200,430"/>
+<text class="small" x="1275" y="425">Violations?</text>
 
-<rect class="box" x="1135" y="180" width="55" height="62" rx="3"/>
-<text class="small" x="1162" y="204"><tspan x="1162">Best</tspan><tspan x="1162" dy="19">route</tspan></text>
-<path class="line" d="M1120 211 H1135"/>
+<path class="line" d="M700 430 H750"/>
+<path class="line" d="M970 430 H1020"/>
+<path class="line" d="M1210 430 H1200"/>
+
+<!-- Lower violation loop -->
+<path class="loop" d="M1275 468 V518 H860 V470"/>
+<text class="pathnote" x="1065" y="545">Yes — self-generated correction prompts</text>
+
+<!-- Lower no-violation path to iterative improvement -->
+<path class="line" d="M1350 430 H1380 V345 H1242 V309"/>
+<text class="small" x="1382" y="414">No</text>
+
+<!-- Final output -->
+<rect class="box" x="1360" y="238" width="72" height="66" rx="4"/>
+<text class="small" x="1396" y="264"><tspan x="1396">Best</tspan><tspan x="1396" dy="20">route</tspan></text>
+<path class="line" d="M1330 271 H1360"/>
 </svg>
