@@ -105,27 +105,27 @@ Safe and efficient navigation in indoor or cluttered environments often suffers 
 ### Agricultural weed control using autonomous robots
 Maintaining organic and sustainable agriculture demands alternatives to chemical herbicides, especially for weed control. In this project, we developed an autonomous robotic platform capable of mowing unwanted vegetation in pasturelands. This solution not only reduces chemical usage but also provides scalable, cost-effective weed management. We also prototyped a compact robotic system designed to navigate tight rows in crop fields such as corn. Together, these systems support more eco-friendly farming practices through intelligent automation.
 
-<div style="margin-top: 10px; margin-bottom: 20px; padding-left: 8.8%;">
-  <iframe 
-    src="https://www.youtube.com/embed/mVVQWA6jrS4" 
-    style="width: 100%; max-width: 640px; aspect-ratio: 16 / 9; border: none;" 
-    allow="autoplay; encrypted-media; fullscreen"
-    allowfullscreen>
-  </iframe>
+<div class="weed-control-videos" style="display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 20px; width: 100%; margin: 18px 0 24px;">
+  <div style="min-width: 0;">
+    <div style="position: relative; aspect-ratio: 16 / 9; overflow: hidden; background: #000;">
+      <iframe class="fitvidsignore" src="https://www.youtube.com/embed/mVVQWA6jrS4" title="Autonomous pasture mowing demonstration" style="position: absolute; inset: 0; display: block; width: 100%; height: 100%; border: 0;" allow="autoplay; encrypted-media; fullscreen" allowfullscreen></iframe>
+    </div>
+    <p style="margin: 8px 0 0; font-size: 90%; text-align: center;">Autonomous pasture mowing</p>
+  </div>
+  <div style="min-width: 0;">
+    <div style="position: relative; aspect-ratio: 16 / 9; overflow: hidden; background: #000;">
+      <video controls playsinline preload="metadata" poster="/images/cornfield-weed-control-poster.jpg" aria-label="Cornfield weed-control robot demonstration" style="position: absolute; inset: 0; display: block; width: 100%; height: 100%; object-fit: contain;">
+        <source src="/files/cornfield-weed-control.mp4" type="video/mp4">
+        <a href="/files/cornfield-weed-control.mp4">Download the cornfield robot demonstration.</a>
+      </video>
+    </div>
+    <p style="margin: 8px 0 0; font-size: 90%; text-align: center;">Cornfield robot demonstration (4× speed)</p>
+  </div>
 </div>
 
-<div style="display: flex; justify-content: center; margin-top: 10px; margin-bottom: 20px;">
-  <iframe 
-    src="https://drive.google.com/file/d/1Ndo3ITq_g58ODMreXcUEOwgSdjZ0zH9u/preview"
-    style="width: 100%; max-width: 640px; aspect-ratio: 16 / 9; border: none;"
-    allow="autoplay; encrypted-media; fullscreen"
-    allowfullscreen>
-  </iframe>
-</div>
-
-<div style="display: flex; justify-content: center; gap: 15px; margin-bottom: 30px; flex-wrap: wrap;">
-  <img src="/images/corn-fields.jpg?raw=true" alt="Photo" 
-       style="width: 100%; max-width: 640px; height: auto;">
+<div style="width: 100%; max-width: 640px; margin: 0 auto 24px;">
+  <img src="/images/corn-fields.jpg" alt="Cornfield rows, a compact robot among corn plants, and its view between the rows" width="577" height="205" loading="lazy" decoding="async" style="display: block; width: 100%; height: auto; margin: 0;">
+  <p style="margin: 8px 0 0; font-size: 90%; text-align: center;">Field setting, robotic platform, and navigation between crop rows</p>
 </div>
 <p style="font-size: 80%; font-style: italic; text-align: center; margin-top: -10px;">
   This project was supported by the <a href="https://www.lccmr.mn.gov/projects/2018-index.html" target="_blank">Environment and Natural Resources Trust Fund of LCCMR</a>, Minnesota.
