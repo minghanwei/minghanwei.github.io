@@ -15,9 +15,16 @@ classes: wide
 
 <!-- Example Placeholder -->
 ### Autonomous Robotic Systems for Macroalgae Harvesting in Tank Aquaculture
-Macroalgae harvesting plays a critical role in the integrated multi-trophic aquaculture ([IMTA](https://www.fau.edu/hboi/research/aquaculture-innovation/center-for-marine-and-warm-water-aquaculture/research/imta/)) system developed at FAU HBOI. As aquaculture operations scale up, efficient and consistent macroalgae collection becomes increasingly essential for maintaining ecological balance and maximizing system productivity.
 
-To address the challenges posed by large-scale operations including spatial complexity, repetitive motion, and time sensitivity, we are exploring autonomous robotic solutions that can perform harvesting tasks with high reliability and precision. Below is an early-result demonstration that mimics harvesting motion in aquaculture tanks, implemented by an undergraduate researcher Shuaib Olanrewaju from our lab. Our ongoing efforts are focused on expanding this capability to mobile ground robots for large-scale field deployment.
+<div class="macroalgae-intro" style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 28px; width: 100%; margin: 12px 0 24px;">
+  <div class="macroalgae-intro-text" style="flex: 1.65 1 480px; min-width: 0;">
+    <p>Macroalgae harvesting plays a critical role in the integrated multi-trophic aquaculture (<a href="https://www.fau.edu/hboi/research/aquaculture-innovation/center-for-marine-and-warm-water-aquaculture/research/imta/">IMTA</a>) system developed at FAU HBOI. As aquaculture operations scale up, efficient and consistent macroalgae collection becomes increasingly essential for maintaining ecological balance and maximizing system productivity.</p>
+    <p style="margin-bottom: 0;">To address the challenges posed by large-scale operations including spatial complexity, repetitive motion, and time sensitivity, we are exploring autonomous robotic solutions that can perform harvesting tasks with high reliability and precision. Below is an early-result demonstration that mimics harvesting motion in aquaculture tanks, implemented by an undergraduate researcher Shuaib Olanrewaju from our lab. Our ongoing efforts are focused on expanding this capability to mobile ground robots for large-scale field deployment.</p>
+  </div>
+  <div style="flex: 1 1 300px; min-width: 0;">
+    <img src="/images/tank_aquaculture_scene.png" alt="Outdoor aquaculture tanks with macroalgae growing in the water" width="616" height="462" decoding="async" style="display: block; width: 100%; max-width: 460px; height: auto; margin: 0 auto;">
+  </div>
+</div>
 
 <div class="project-videos" style="display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 20px; width: 100%; max-width: none; margin: 10px 0 20px;">
   <div style="position: relative; min-width: 0; aspect-ratio: 16 / 9; overflow: hidden; background: #000;">
