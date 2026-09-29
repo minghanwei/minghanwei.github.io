@@ -73,10 +73,7 @@ Our work includes two approximation algorithms with provable performance guarant
   <img src="/images/energy-mapping.jpg?raw=true" alt="Photo" height="200px" style="margin-bottom: 10px;">
 </div>
 Energy-efficient navigation is a key challenge in autonomous field robotics, particularly when operating over large, non-uniform terrains. This project addresses the missing piece in energy-aware planning: the generation of accurate energy-cost maps. We leverage aerial–ground collaboration to collect relevant field data and apply machine learning models to infer spatially varying energy costs. These maps enable the application of standard planning algorithms while significantly improving energy efficiency across diverse environments.
-<div style="display: flex; justify-content: center; gap: 15px; margin-bottom: 30px; flex-wrap: wrap;">
-  <img src="/images/corn-fields.jpg?raw=true" alt="Photo" 
-       style="width: 100%; max-width: 640px; height: auto;">
-</div>
+
 <p style="font-size: 80%; font-style: italic; text-align: center; margin-top: -10px;">
   This research was supported by NSF-funded projects led by my Ph.D. advisor.
 </p>
