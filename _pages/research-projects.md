@@ -82,13 +82,10 @@ Energy-efficient navigation is a key challenge in autonomous field robotics, par
 </p>
 
 ### Occupancy map inpainting for online robot navigation
-<div style="overflow:auto">
-  <img src="/images/indoor-nav.jpg?raw=true" alt="Photo" style="float:left; margin-right: 10px; width: 300px; margin-bottom: 10px;">
-  <p style="margin-left: 10px;">
-  Indoor navigation using sensors with limited field of view and occlusion is a challenging task, especially for small-sized robots.</p>
+<div style="display: flow-root; margin-top: 12px;">
+  <img src="/images/indoor-nav.jpg?raw=true" alt="Small indoor robot and its camera view of the surrounding floor" style="float: right; width: 300px; max-width: 40%; height: auto; margin: 0 0 12px 24px;">
+  <p style="margin: 0;">Indoor navigation using sensors with limited field of view and occlusion is a challenging task, especially for small-sized robots. Safe and efficient navigation in indoor or cluttered environments often suffers from occlusions and sensor limitations. This project explores a novel learning-based approach to occupancy map inpainting, which predicts the layout of unseen areas based on limited sensory data. Using a two-camera system, we train models to infer missing map regions, allowing the robot to proactively plan paths and avoid potential hazards. Our results show that inpainted maps lead to faster goal-reaching behavior and improved navigation robustness.</p>
 </div>
-
-Safe and efficient navigation in indoor or cluttered environments often suffers from occlusions and sensor limitations. This project explores a novel learning-based approach to occupancy map inpainting, which predicts the layout of unseen areas based on limited sensory data. Using a two-camera system, we train models to infer missing map regions, allowing the robot to proactively plan paths and avoid potential hazards. Our results show that inpainted maps lead to faster goal-reaching behavior and improved navigation robustness.
 
 <div class="container" style="margin-top: 18px; margin-bottom: 20px;">
   <img src="/images/occupancy-map-inpainting.jpg?raw=true" alt="Occupancy map inpainting for robot navigation" height="200px" style="margin-bottom: 10px;">
