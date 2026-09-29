@@ -83,7 +83,7 @@ Energy-efficient navigation is a key challenge in autonomous field robotics, par
 
 ### Occupancy map inpainting for online robot navigation
 <div style="display: flow-root; margin-top: 12px;">
-  <img src="/images/indoor-nav.jpg?raw=true" alt="Small indoor robot and its camera view of the surrounding floor" style="float: right; width: 300px; max-width: 40%; height: auto; margin: 0 0 12px 24px;">
+  <img src="/images/indoor-nav.jpg?raw=true" alt="Small indoor robot and its camera view of the surrounding floor" style="float: left; width: 300px; max-width: 40%; height: auto; margin: 0 24px 12px 0;">
   <p style="margin: 0;">Indoor navigation using sensors with limited field of view and occlusion is a challenging task, especially for small-sized robots. Safe and efficient navigation in indoor or cluttered environments often suffers from occlusions and sensor limitations. This project explores a novel learning-based approach to occupancy map inpainting, which predicts the layout of unseen areas based on limited sensory data. Using a two-camera system, we train models to infer missing map regions, allowing the robot to proactively plan paths and avoid potential hazards. Our results show that inpainted maps lead to faster goal-reaching behavior and improved navigation robustness.</p>
 </div>
 
