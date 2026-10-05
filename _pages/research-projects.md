@@ -13,7 +13,24 @@ classes: wide
 
 ## Selected Projects at Florida Atlantic University
 
-<!-- Example Placeholder -->
+<style>
+.unblocking-scroll { width: 100%; overflow-x: auto; margin: 22px 0 0; }
+.unblocking-sequence { display: grid; grid-template-columns: repeat(6, minmax(0, 1fr)); gap: 10px; min-width: 900px; }
+.unblocking-frame { min-width: 0; }
+.unblocking-frame img { display: block; width: 100%; height: auto; aspect-ratio: 0.9; object-fit: contain; margin: 0; }
+.unblocking-frame p { font-size: 75%; line-height: 1.4; text-align: center; margin: 8px 0 8px; }
+.unblocking-frame span { font-weight: 600; }
+.unblocking-caption { font-size: 80%; line-height: 1.5; text-align: center; color: #666; margin: 14px 0 30px; }
+</style>
+
+<div id="unblocking-project">
+<h3>Unblocking the Path: VLM-Assisted Robot Navigation</h3>
+<p>Robots navigating in the real world may encounter blockages that cannot be resolved by finding another route. Continuing the mission can require understanding what prevents progress and interacting with the environment to make a path accessible. We explore how vision-language models can support this capability by connecting scene understanding with navigation and physical action.</p>
+<p>In this project, we combine geometric path planning with VLM-based reasoning and open-vocabulary object detection. When a robot is blocked, it reasons about the required interaction, locates the relevant object, and acts to clear its path. We demonstrate this approach on a Jackal mobile manipulator that encounters a closed door, finds and presses its opening button, and resumes navigation toward the goal.</p>
+<div class="unblocking-scroll" tabindex="0" role="region" aria-label="Six-step navigation experiment; scroll horizontally on small screens"><div class="unblocking-sequence"><div class="unblocking-frame"><img src="/images/unblocking-step-1.png" decoding="async" alt="Follow the planned path"><p><span>1.</span> Follow the planned path</p></div><div class="unblocking-frame"><img src="/images/unblocking-step-2.png" decoding="async" alt="Encounter a closed door"><p><span>2.</span> Encounter a closed door</p></div><div class="unblocking-frame"><img src="/images/unblocking-step-3.png" decoding="async" alt="Approach the button"><p><span>3.</span> Approach the button</p></div><div class="unblocking-frame"><img src="/images/unblocking-step-4.png" decoding="async" alt="Press the door button"><p><span>4.</span> Press the door button</p></div><div class="unblocking-frame"><img src="/images/unblocking-step-5.png" decoding="async" alt="Clear the passage"><p><span>5.</span> Clear the passage</p></div><div class="unblocking-frame"><img src="/images/unblocking-step-6.png" decoding="async" alt="Continue to the goal"><p><span>6.</span> Continue to the goal</p></div></div></div>
+<p class="unblocking-caption">Experiment example. When its path is blocked, the robot reasons about what is preventing progress and how to clear the way. It identifies a nearby button that can open the door, locates and presses it, then resumes navigation toward its goal.</p>
+</div>
+
 ### Autonomous Robotic Systems for Macroalgae Harvesting in Tank Aquaculture
 
 <div class="macroalgae-intro" style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 28px; width: 100%; margin: 12px 0 24px;">
