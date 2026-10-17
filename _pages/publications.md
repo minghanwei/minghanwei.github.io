@@ -6,6 +6,12 @@ layout: single
 
 ### 2026
 
+* Shuaib A. Olanrewaju, Bing Ouyang, Paul Wills, and Minghan Wei. "Autonomous Manipulation System for Seaweed Harvesting in Tank Aquaculture."  
+  *38th International Conference on Tools with Artificial Intelligence* (**ICTAI**), 2026. Accepted as a short paper.
+
+* Tiying Gao and Minghan Wei. "Energy-Aware Soft Actor-Critic-Based Cooperative Multi-Robot Coverage Path Planning."  
+  *38th International Conference on Tools with Artificial Intelligence* (**ICTAI**), 2026. Accepted as a full paper.
+
 * Dylan Shim and Minghan Wei. "Constraint-aware Path Planning from Natural Language Instructions Using Large Language Models."  
   *Machine Learning from Challenging Data 2026*, SPIE, Vol. 14030, 2026.
 
