@@ -22,6 +22,7 @@ To achieve this goal, my research spans robotic perception, mapping, planning, m
 ## <img src="/images/logos/celebrate.png?raw=true" alt="Photo" style="width: 60px;"/> News
 * **October, 2026**: Our lab’s application to [ChatGPT for Academic Researchers](https://openai.com/index/chatgpt-for-academic-researchers/) has been approved! We really appreciate OpenAI’s support for our lab’s research.
 * **September, 2026**: Our paper *"Can LLMs Prove Robotic Path Planning Optimality? A Benchmark for Research-Level Algorithm Verification"*, in collaboration with [Prof. Zhu](https://zhuangdizhu.github.io/) at George Mason University, was accepted and presented at IROS 2026.
+* **August, 2026**: Our lab has been approved for the [Claude Team plan for research labs](https://claude.com/programs/team-plan-for-scientists)! We really appreciate Anthropic’s support for our lab’s research.
 * **June, 2026**: Our work *"Unblocking the Path: VLM-Assisted Robot Navigation in Indoor Environments"* was presented at the CVPR Workshop on Deployment of Foundation Models for Embodied AI.
 * **June, 2025**: Excited to share that our NSF [proposal](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2452203&HistoricalAwards=false) *"CRII: FRR: Towards Energy-optimal Multi-Robot Navigation for Time-critical Field Tasks"* has been awarded!
 * **June, 2023**: I will be joining Florida Atlantic University on August 7, 2023 as an assistant professor to pursue my robotics research.
