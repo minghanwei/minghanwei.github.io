@@ -19,7 +19,7 @@ classes: wide
   </div>
 </div>
 
-## Student Researchers
+## Current
 <div class="people-grid people-grid-students">
   <div class="person">
     <img src="/images/default_headshot.jpg" alt="Md. Tasin Tazwar">
@@ -53,6 +53,18 @@ classes: wide
     <div class="person-name">Anik Sahai</div>
     <div class="person-role">Undergraduate Researcher</div>
     <div class="person-links"><a href="https://www.linkedin.com/in/aniksahai/" target="_blank" rel="noopener noreferrer">LinkedIn</a></div>
+  </div>
+
+  <div class="person">
+    <img src="/images/default_headshot.jpg" alt="Sharmin Fatema">
+    <div class="person-name">Sharmin Fatema</div>
+    <div class="person-role">Student Researcher</div>
+  </div>
+
+  <div class="person">
+    <img src="/images/default_headshot.jpg" alt="Ansuman Prusty">
+    <div class="person-name">Ansuman Prusty</div>
+    <div class="person-role">Student Researcher</div>
   </div>
 </div>
 
